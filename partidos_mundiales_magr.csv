@@ -1,0 +1,965 @@
+Torneo;Fase y Grupo;Fecha;Estadio/Ciudad;Local;Goles L;Visita;Goles V;Observaciones;Resultado
+Uruguay 1930;Primera, Grupo A;13 de julio de 1930;Pocitos, Montevideo;Francia;4;MÇxico;1;PT 3 a 0;Local
+Uruguay 1930;Primera, Grupo D;13 de julio de 1930;Parque Central, Montevideo;Estados Unidos;3;BÇlgica;0;PT 2 a 0;Local
+Uruguay 1930;Primera, Grupo B;14 de julio de 1930;Parque Central, Montevideo;Yugoslavia;2;Brasil;1;PT 2 a 0;Local
+Uruguay 1930;Primera, Grupo C;14 de julio de 1930;Pocitos, Montevideo;Rumania;3;Per£;1;PT 1 a 0;Local
+Uruguay 1930;Primera, Grupo A;15 de julio de 1930;Parque Central, Montevideo;Argentina;1;Francia;0;PT 0 a 0;Local
+Uruguay 1930;Primera, Grupo A;16 de julio de 1930;Parque Central, Montevideo;Chile;3;MÇxico;0;PT 1 a 0;Local
+Uruguay 1930;Primera, Grupo B;17 de julio de 1930;Parque Central, Montevideo;Yugoslavia;4;Bolivia;0;PT 0 a 0;Local
+Uruguay 1930;Primera, Grupo D;17 de julio de 1930;Parque Central, Montevideo;Estados Unidos;3;Paraguay;0;PT 2 a 0;Local
+Uruguay 1930;Primera, Grupo C;18 de julio de 1930;Centenario, Montevideo;Uruguay;1;Per£;0;PT 0 a 0;Local
+Uruguay 1930;Primera, Grupo A;19 de julio de 1930;Centenario, Montevideo;Chile;1;Francia;0;PT 0 a 0;Local
+Uruguay 1930;Primera, Grupo A;19 de julio de 1930;Centenario, Montevideo;Argentina;6;MÇxico;3;PT 3 a 1;Local
+Uruguay 1930;Primera, Grupo B;20 de julio de 1930;Centenario, Montevideo;Brasil;4;Bolivia;0;PT 1 a 0;Local
+Uruguay 1930;Primera, Grupo D;20 de julio de 1930;Centenario, Montevideo;Paraguay;1;BÇlgica;0;PT 1 a 0;Local
+Uruguay 1930;Primera, Grupo C;21 de julio de 1930;Centenario, Montevideo;Uruguay;4;Rumania;0;PT 4 a 0;Local
+Uruguay 1930;Primera, Grupo A;22 de julio de 1930;Centenario, Montevideo;Argentina;3;Chile;1;PT 2 a 1;Local
+Uruguay 1930;Semifinal 1;26 de julio de 1930;Centenario, Montevideo;Argentina;6;Estados Unidos;1;PT 1 a 0;Local
+Uruguay 1930;Semifinal 2;27 de julio de 1930;Centenario, Montevideo;Uruguay;6;Yugoslavia;1;PT 3 a 1;Local
+Uruguay 1930;Final;30 de julio de 1930;Centenario, Montevideo;Uruguay;4;Argentina;2;PT 1 a 2;Local
+Italia 1934;Ronda Preliminar, partido 1;27 de mayo de 1934;Giorgio Ascarelli, N†poles;Hungr°a;4;Egipto;2;PT 2 a 2.;Local
+Italia 1934;Ronda Preliminar, partido 2;27 de mayo de 1934;Luigi Ferraris, GÇnova;Espa§a;3;Brasil;1;PT 3 a 0.;Local
+Italia 1934;Ronda Preliminar, partido 3;27 de mayo de 1934;Littorale, Bologna;Suecia;3;Argentina;2;PT 1 a 1.;Local
+Italia 1934;Ronda Preliminar, partido 4;27 de mayo de 1934;San Siro, Mil†n;Suiza;3;Pa°ses Bajos;2;PT 2 a 1;Local
+Italia 1934;Ronda Preliminar, partido 5;27 de mayo de 1934;Littorio, Triesta;Checoslovaquia;2;Rumania;1;PT 0 a 1.;Local
+Italia 1934;Ronda Preliminar, partido 6;27 de mayo de 1934;Giovanni Berta, Florencia;Alemania;5;BÇlgica;2;PT 1 a 2.;Local
+Italia 1934;Ronda Preliminar, partido 7;27 de mayo de 1934;Nazionale PNF, Roma;Italia;7;Estados Unidos;1;PT 3 a 0.;Local
+Italia 1934;Ronda Preliminar, partido 8;27 de mayo de 1934;Benito Mussolini, Tur°n;Austria;3;Francia;2;PT 1 a 1, ST 2 a 2. Suplementario.;Local
+Italia 1934;Cuartos de Final, partido 1;31 de mayo de 1934;Giovanni Berta, Florencia;Italia;1;Espa§a;1;PT 1 a 1, ST 1 a 1. Suplementario.;Empate
+Italia 1934;Cuartos de Final, partido 2;31 de mayo de 1934;San Siro, Mil†n;Alemania;2;Suecia;1;PT 0 a 0.;Local
+Italia 1934;Cuartos de Final, partido 3;31 de mayo de 1934;Benito Mussolini, Tur°n;Checoslovaquia;3;Suiza;2;PT 1 a 1.;Local
+Italia 1934;Cuartos de Final, partido 4;31 de mayo de 1934;Littorale, Bologna;Austria;2;Hungr°a;1;PT 1 a 0.;Local
+Italia 1934;Cuartos de Final, partido 1 bis;1 de junio de 1934;Giovanni Berta, Florencia;Italia;1;Espa§a;0;PT 1 a 0.;Local
+Italia 1934;Semifinal 1;3 de junio de 1934;Nazionale PNF, Roma;Checoslovaquia;3;Alemania;1;PT 1 a 0.;Local
+Italia 1934;Semifinal 2;3 de junio de 1934;San Siro, Mil†n;Italia;1;Austria;0;PT 1 a 0.;Local
+Italia 1934;Tercer y Cuarto Puesto;7 de junio de 1934;Giorgio Ascarelli, N†poles;Alemania;3;Austria;2;PT 3 a 1.;Local
+Italia 1934;Final;10 de junio de 1934;Nazionale PNF, Roma;Italia;2;Checoslovaquia;1;PT 0 a 0, ST 1 a 1. Suplementario.;Local
+Francia 1938;Primera Ronda, partido 1;4 de junio de 1938;Parc des Princes, Paris;Suiza;1;Alemania;1;PT 1 a 1, ST 1 a 1. Suplementario.;Empate
+Francia 1938;Primera Ronda, partido 2;5 de junio de 1938;Velodrome, Marsella;Italia;2;Noruega;1;PT 1 a 0, ST 1 a 1. Suplementario.;Local
+Francia 1938;Primera Ronda, partido 3;5 de junio de 1938;Velodrome Municipale, Reims;Hungr°a;6;Indias Holandesas;0;PT 4 a 0.;Local
+Francia 1938;Primera Ronda, partido 4;5 de junio de 1938;Chapou, Toulouse;Cuba;3;Rumania;3;PT 1 a 1, ST 3 a 3. Suplementario.;Empate
+Francia 1938;Primera Ronda, partido 5;5 de junio de 1938;Olympique, Colombes-Par°s;Francia;3;BÇlgica;1;PT 2 a 1.;Local
+Francia 1938;Primera Ronda, partido 6;5 de junio de 1938;Meinau, Estrasburgo;Brasil;6;Polonia;5;PT 3 a 1, ST 4 a 4. Suplementario.;Local
+Francia 1938;Primera Ronda, partido 7;5 de junio de 1938;Cavee Verte, Le Havre;Checoslovaquia;3;Pa°ses Bajos;0;PT 0 a 0, ST 0 a 0. Suplementario.;Local
+Francia 1938;Primera Ronda, partido 1 bis;9 de junio de 1938;Parc des Princes, Paris;Suiza;4;Alemania;2;PT 1 a 2.;Local
+Francia 1938;Primera Ronda, partido 4 bis;9 de junio de 1938;Chapou, Toulouse;Cuba;2;Rumania;1;PT 0 a 1.;Local
+Francia 1938;Cuartos de Final, partido 1;12 de junio de 1938;Olympique, Colombes-Par°s;Italia;3;Francia;1;PT 1 a 1.;Local
+Francia 1938;Cuartos de Final, partido 2;12 de junio de 1938;V°ctor Boucquey, Lille;Hungr°a;2;Suiza;0;PT 1 a 0.;Local
+Francia 1938;Cuartos de Final, partido 3;12 de junio de 1938;Fort Carree, Antibes;Suecia;8;Cuba;0;PT 4 a 0.;Local
+Francia 1938;Cuartos de Final, partido 4;12 de junio de 1938;Chapou, Toulouse;Brasil;1;Checoslovaquia;1;PT 1 a 0, ST 1 a 1. Suplementario.;Empate
+Francia 1938;Cuartos de Final, partido 4 bis;14 de junio de 1938;Chapou, Toulouse;Brasil;2;Checoslovaquia;1;PT 0 a 1.;Local
+Francia 1938;Semifinal 1;16 de junio de 1938;Parc des Princes, Paris;Hungr°a;5;Suecia;1;PT 3 a 1.;Local
+Francia 1938;Semifinal 2;16 de junio de 1938;Velodrome, Marsella;Italia;2;Brasil;1;PT 0 a 0.;Local
+Francia 1938;Tercer y Cuarto Puesto;19 de junio de 1938;Parc Lescure, Burdeos;Brasil;4;Suecia;2;PT 1 a 2.;Local
+Francia 1938;Final;19 de junio de 1938;Olympique, Colombes-Par°s;Italia;4;Hungr°a;2;PT 3 a 1.;Local
+Brasil 1950;Primera, Grupo A;24 de junio de 1950;Maracan†, Rio de Janeiro;Brasil;4;MÇxico;0;PT 1 a 0.;Local
+Brasil 1950;Primera, Grupo A;25 de junio de 1950;Sete de Setembro, Belo Horizonte;Yugoslavia;3;Suiza;0;PT 0 a 0.;Local
+Brasil 1950;Primera, Grupo B;25 de junio de 1950;Maracan†, Rio de Janeiro;Inglaterra;2;Chile;0;PT 1 a 0.;Local
+Brasil 1950;Primera, Grupo B;25 de junio de 1950;Durival de Brito, Curitiba;Espa§a;3;Estados Unidos;1;PT 0 a 1,;Local
+Brasil 1950;Primera, Grupo C;25 de junio de 1950;Pacaemb£, Sao Pablo;Suecia;3;Italia;2;PT 2 a 1.;Local
+Brasil 1950;Primera, Grupo A;28 de junio de 1950;Pacaemb£, Sao Pablo;Brasil;2;Suiza;2;PT 2 a 1.;Empate
+Brasil 1950;Primera, Grupo A;28 de junio de 1950;Beira R°o, Porto Alegre;Yugoslavia;4;MÇxico;1;PT 2 a 0.;Local
+Brasil 1950;Primera, Grupo B;29 de junio de 1950;Maracan†, Rio de Janeiro;Espa§a;2;Chile;0;PT 2 a 0.;Local
+Brasil 1950;Primera, Grupo B;29 de junio de 1950;Mineirao, Belo Horizonte;Estados Unidos;1;Inglaterra;0;PT 1 a 0.;Local
+Brasil 1950;Primera, Grupo C;29 de junio de 1950;Durival de Brito, Curitiba;Suecia;2;Paraguay;2;PT 2 a 1.;Empate
+Brasil 1950;Primera, Grupo A;1 de julio de 1950;Maracan†, Rio de Janeiro;Brasil;2;Yugoslavia;0;PT 1 a 0.;Local
+Brasil 1950;Primera, Grupo A;2 de julio de 1950;Beira R°o, Porto Alegre;Suiza;2;MÇxico;1;PT 2 a 0.;Local
+Brasil 1950;Primera, Grupo B;2 de julio de 1950;Maracan†, Rio de Janeiro;Espa§a;1;Inglaterra;0;PT 0 a 0.;Local
+Brasil 1950;Primera, Grupo B;2 de julio de 1950;Ilha do Retiro, Recife;Chile;5;Estados Unidos;2;PT 2 a 0.;Local
+Brasil 1950;Primera, Grupo C;2 de julio de 1950;Pacaemb£, Sao Pablo;Italia;2;Paraguay;0;PT 1 a 0.;Local
+Brasil 1950;Primera, Grupo D;2 de julio de 1950;Mineirao, Belo Horizonte;Uruguay;8;Bolivia;0;PT 4 a 0.;Local
+Brasil 1950;Final;9 de julio de 1950;Pacaemb£, Sao Pablo;Uruguay;2;Espa§a;2;PT 1 a 2.;Empate
+Brasil 1950;Final;9 de julio de 1950;Maracan†, Rio de Janeiro;Brasil;7;Suecia;1;PT 3 a 0.;Local
+Brasil 1950;Final;13 de julio de 1950;Pacaemb£, Sao Pablo;Uruguay;3;Suecia;2;PT 1 a 2.;Local
+Brasil 1950;Final;13 de julio de 1950;Maracan†, Rio de Janeiro;Brasil;6;Espa§a;1;PT 3 a 0.;Local
+Brasil 1950;Final;16 de julio de 1950;Pacaemb£, Sao Pablo;Suecia;3;Espa§a;1;PT 2 a 0.;Local
+Brasil 1950;Final;16 de julio de 1950;Maracan†, Rio de Janeiro;Uruguay;2;Brasil;1;PT 0 a 0.;Local
+Suiza 1954;Primera, Grupo A;16 de junio de 1954;La Pontaise, Lausanne;Yugoslavia;1;Francia;0;PT 1 a 0.;Local
+Suiza 1954;Primera, Grupo A;16 de junio de 1954;Charmilles, Geneva;Brasil;5;MÇxico;0;PT 4 a 0.;Local
+Suiza 1954;Primera, Grupo C;16 de junio de 1954;Wankdorf, Berna;Uruguay;2;Checoslovaquia;0;PT 0 a 0.;Local
+Suiza 1954;Primera, Grupo C;16 de junio de 1954;"Hardturm; Zurich";Austria;1;Escocia;0;PT 1 a 0.;Local
+Suiza 1954;Primera, Grupo B;17 de junio de 1954;Wankdorf, Berna;Alemania Occidental;4;Turqu°a;1;PT 1 a 1.;Local
+Suiza 1954;Primera, Grupo B;17 de junio de 1954;"Hardturm; Zurich";Hungr°a;9;Corea del Sur;0;PT 4 a 0.;Local
+Suiza 1954;Primera, Grupo D;17 de junio de 1954;La Pontaise, Lausanne;Suiza;2;Italia;1;PT 1 a 1.;Local
+Suiza 1954;Primera, Grupo D;17 de junio de 1954;St. Jakob, Basilea;Inglaterra;4;BÇlgica;4;PT 2 a 1, ST 3 a 3. Suplementario;Empate
+Suiza 1954;Primera, Grupo A;19 de junio de 1954;La Pontaise, Lausanne;Brasil;1;Yugoslavia;1;PT 0 a 0, ST 1 a 1. Suplementario;Empate
+Suiza 1954;Primera, Grupo A;19 de junio de 1954;Charmilles, Geneva;Francia;3;MÇxico;2;PT 1 a 0.;Local
+Suiza 1954;Primera, Grupo C;19 de junio de 1954;St. Jakob, Basilea;Uruguay;7;Escocia;0;PT 2 a 0.;Local
+Suiza 1954;Primera, Grupo C;19 de junio de 1954;"Hardturm; Zurich";Austria;5;Checoslovaquia;0;PT 4 a 0.;Local
+Suiza 1954;Primera, Grupo B;20 de junio de 1954;St. Jakob, Basilea;Hungr°a;8;Alemania Occidental;3;PT 3 a 1;Local
+Suiza 1954;Primera, Grupo B;20 de junio de 1954;Charmilles, Geneva;Turqu°a;7;Corea del Sur;0;PT 4 a 0.;Local
+Suiza 1954;Primera, Grupo D;20 de junio de 1954;Comunale di Comaredo, Lugano;Italia;4;BÇlgica;1;PT 1 a 0.;Local
+Suiza 1954;Primera, Grupo D;20 de junio de 1954;Wankdorf, Berna;Inglaterra;2;Suiza;0;PT 1 a 0.;Local
+Suiza 1954;Primera, Grupo B;23 de junio de 1954;"Hardturm; Zurich";Alemania Occidental;7;Turqu°a;2;Desempate 2ß puesto. PT 3 a 1.;Local
+Suiza 1954;Primera, Grupo D;23 de junio de 1954;St. Jakob, Basilea;Suiza;4;Italia;1;Desempate 2ß puesto. PT 1 a 0.;Local
+Suiza 1954;Cuartos de Final, partido 1;26 de junio de 1954;La Pontaise, Lausanne;Austria;7;Suiza;5;PT 5 a 4.;Local
+Suiza 1954;Cuartos de Final, partido 2;26 de junio de 1954;St. Jakob, Basilea;Uruguay;4;Inglaterra;2;PT 2 a 1.;Local
+Suiza 1954;Cuartos de Final, partido 3;27 de junio de 1954;Wankdorf, Berna;Hungr°a;4;Brasil;2;PT 2 a 1.;Local
+Suiza 1954;Cuartos de Final, partido 4;27 de junio de 1954;Charmilles, Geneva;Alemania Occidental;2;Yugoslavia;0;PT 1 a 0.;Local
+Suiza 1954;Semifinal 1;30 de junio de 1954;La Pontaise, Lausanne;Hungr°a;4;Uruguay;2;PT 1 a 0, ST 2 a 2. Suplementario.;Local
+Suiza 1954;Semifinal 2;30 de junio de 1954;St. Jakob, Basilea;Alemania Occidental;6;Austria;1;PT 1 a 0.;Local
+Suiza 1954;Tercer y Cuarto Puesto;3 de julio de 1954;"Hardturm; Zurich";Austria;3;Uruguay;1;PT 1 a 1.;Local
+Suiza 1954;Final;4 de julio de 1954;Wankdorf, Berna;Alemania Occidental;3;Hungr°a;2;PT 2 a 2.;Local
+Suecia 1958;Primera, Grupo A;8 de junio de 1958;Malmoe FF, Malmoe;Argentina;1;Alemania Occidental;3;PT 1 a 2.;Visita
+Suecia 1958;Primera, Grupo A;8 de junio de 1958;Orjans Vall, Halmstad;Irlanda del Norte;1;Checoslovaquia;0;PT 1 a 0.;Local
+Suecia 1958;Primera, Grupo B;8 de junio de 1958;Idrottsparken, Norrkoeping;Francia;7;Paraguay;3;PT 2 a 2.;Local
+Suecia 1958;Primera, Grupo B;8 de junio de 1958;Arosvallen, Vaesteras;Yugoslavia;1;Escocia;1;PT 1 a 0.;Empate
+Suecia 1958;Primera, Grupo C;8 de junio de 1958;Rasunda, Estocolmo;Suecia;3;MÇxico;0;PT 1 a 0.;Local
+Suecia 1958;Primera, Grupo C;8 de junio de 1958;Jarnvallen, Sandviken;Hungr°a;1;Gales;1;PT 1 a 1.;Empate
+Suecia 1958;Primera, Grupo D;8 de junio de 1958;Rimnersvallen, Udevalla;Brasil;3;Austria;0;PT 1 a 0.;Local
+Suecia 1958;Primera, Grupo D;8 de junio de 1958;Nya Ullevi, Gotemburgo;Uni¢n SoviÇtica;2;Inglaterra;2;PT 1 a 0.;Empate
+Suecia 1958;Primera, Grupo A;11 de junio de 1958;Orjans Vall, Halmstad;Argentina;3;Irlanda del Norte;1;PT 1 a 1.;Local
+Suecia 1958;Primera, Grupo A;11 de junio de 1958;Olympia Stadium, Helsinborg;Alemania Occidental;2;Checoslovaquia;2;PT 0 a 2.;Empate
+Suecia 1958;Primera, Grupo B;11 de junio de 1958;Arosvallen, Vaesteras;Yugoslavia;3;Francia;2;PT 1 a 1.;Local
+Suecia 1958;Primera, Grupo B;11 de junio de 1958;Idrottsparken, Norrkoeping;Paraguay;3;Escocia;2;PT 2 a 1.;Local
+Suecia 1958;Primera, Grupo C;11 de junio de 1958;Rasunda, Estocolmo;MÇxico;1;Gales;1;PT 0 a 1.;Empate
+Suecia 1958;Primera, Grupo D;11 de junio de 1958;Nya Ullevi, Gotemburgo;Brasil;0;Inglaterra;0;PT 0 a 0.;Empate
+Suecia 1958;Primera, Grupo D;11 de junio de 1958;Ryavallen, Boras;Uni¢n SoviÇtica;2;Austria;0;PT 1 a 0.;Local
+Suecia 1958;Primera, Grupo C;12 de junio de 1958;Rasunda, Estocolmo;Suecia;2;Hungr°a;1;PT 1 a 0.;Local
+Suecia 1958;Primera, Grupo A;15 de junio de 1958;Malmoe FF, Malmoe;Alemania Occidental;2;Irlanda del Norte;2;PT 1 a 1.;Empate
+Suecia 1958;Primera, Grupo A;15 de junio de 1958;Olympia Stadium, Helsinborg;Checoslovaquia;6;Argentina;1;PT 3 a 0.;Local
+Suecia 1958;Primera, Grupo B;15 de junio de 1958;Eyravallen, Oerebro;Francia;2;Escocia;1;PT 2 a 0.;Local
+Suecia 1958;Primera, Grupo B;15 de junio de 1958;Tunavallen, Eskilstuna;Paraguay;3;Yugoslavia;3;PT 1 a 2.;Empate
+Suecia 1958;Primera, Grupo C;15 de junio de 1958;Rasunda, Estocolmo;Suecia;0;Gales;0;PT 0 a 0.;Empate
+Suecia 1958;Primera, Grupo C;15 de junio de 1958;Jarnvallen, Sandviken;Hungr°a;4;MÇxico;0;PT 1 a 0.;Local
+Suecia 1958;Primera, Grupo D;15 de junio de 1958;Ryavallen, Boras;Inglaterra;2;Austria;2;PT 0 a 1.;Empate
+Suecia 1958;Primera, Grupo D;15 de junio de 1958;Nya Ullevi, Gotemburgo;Brasil;2;Uni¢n SoviÇtica;0;PT 1 a 0.;Local
+Suecia 1958;Primera, Grupo A;17 de junio de 1958;Malmoe FF, Malmoe;Checoslovaquia;1;Irlanda del Norte;2;Desempate 2ß puesto.  PT 1 a 1, ST 1 a 1. Suplementario.;Visita
+Suecia 1958;Primera, Grupo C;17 de junio de 1958;Rasunda, Estocolmo;Gales;2;Hungr°a;1;Desempate 2ß puesto. PT 0 a 1.;Local
+Suecia 1958;Primera, Grupo D;17 de junio de 1958;Nya Ullevi, Gotemburgo;Uni¢n SoviÇtica;1;Inglaterra;0;Desempate 2ß puesto. PT 1 a 0.;Local
+Suecia 1958;Cuartos de Final, partido 1;19 de junio de 1958;Idrottsparken, Norrkoeping;Francia;4;Irlanda del Norte;0;PT 1 a 0.;Local
+Suecia 1958;Cuartos de Final, partido 2;19 de junio de 1958;Rasunda, Estocolmo;Suecia;2;Uni¢n SoviÇtica;0;PT 0 a 0.;Local
+Suecia 1958;Cuartos de Final, partido 3;19 de junio de 1958;Nya Ullevi, Gotemburgo;Brasil;1;Gales;0;PT 0 a 0.;Local
+Suecia 1958;Cuartos de Final, partido 4;19 de junio de 1958;Malmoe FF, Malmoe;Alemania Occidental;1;Yugoslavia;0;PT 1 a 0.;Local
+Suecia 1958;Semifinal 1;24 de junio de 1958;Rasunda, Estocolmo;Brasil;5;Francia;2;PT 2 a 1.;Local
+Suecia 1958;Semifinal 2;24 de junio de 1958;Nya Ullevi, Gotemburgo;Suecia;3;Alemania Occidental;1;PT 1 a 1.;Local
+Suecia 1958;Tercer y Cuarto Puesto;28 de junio de 1958;Nya Ullevi, Gotemburgo;Francia;6;Alemania Occidental;3;PT 3 a 1.;Local
+Suecia 1958;Final;29 de junio de 1958;Rasunda, Estocolmo;Brasil;5;Suecia;2;PT 2 a 1.;Local
+Chile 1962;Primera, Grupo A;30 de mayo de 1962;Carlos Dittborn, Arica;Uruguay;2;Colombia;1;PT 0 a 1.;Local
+Chile 1962;Primera, Grupo B;30 de mayo de 1962;Nacional, Santiago;Chile;3;Suiza;1;PT 1 a 1.;Local
+Chile 1962;Primera, Grupo C;30 de mayo de 1962;Sausalito, Vi§a del Mar;Brasil;2;MÇxico;0;PT 0 a 0.;Local
+Chile 1962;Primera, Grupo D;30 de mayo de 1962;Braden Cooper Co., Rancagua;Argentina;1;Bulgaria;0;PT 1 a 0.;Local
+Chile 1962;Primera, Grupo A;31 de mayo de 1962;Carlos Dittborn, Arica;Uni¢n SoviÇtica;2;Yugoslavia;0;PT 0 a 0.;Local
+Chile 1962;Primera, Grupo B;31 de mayo de 1962;Nacional, Santiago;Alemania Occidental;0;Italia;0;PT 0 a 0.;Empate
+Chile 1962;Primera, Grupo C;31 de mayo de 1962;Sausalito, Vi§a del Mar;Checoslovaquia;1;Espa§a;0;PT 0 a 0.;Local
+Chile 1962;Primera, Grupo D;31 de mayo de 1962;Braden Cooper Co., Rancagua;Hungr°a;2;Inglaterra;1;PT 1 a 0.;Local
+Chile 1962;Primera, Grupo A;2 de junio de 1962;Carlos Dittborn, Arica;Yugoslavia;3;Uruguay;1;PT 2 a 1.;Local
+Chile 1962;Primera, Grupo B;2 de junio de 1962;Nacional, Santiago;Chile;2;Italia;0;PT 0 a 0.;Local
+Chile 1962;Primera, Grupo C;2 de junio de 1962;Sausalito, Vi§a del Mar;Brasil;0;Checoslovaquia;0;PT 0 a 0.;Empate
+Chile 1962;Primera, Grupo D;2 de junio de 1962;Braden Cooper Co., Rancagua;Inglaterra;3;Argentina;1;PT 2 a 0.;Local
+Chile 1962;Primera, Grupo A;3 de junio de 1962;Carlos Dittborn, Arica;Uni¢n SoviÇtica;4;Colombia;4;PT 3 a 1.;Empate
+Chile 1962;Primera, Grupo B;3 de junio de 1962;Nacional, Santiago;Alemania Occidental;2;Suiza;1;PT 1 a 0.;Local
+Chile 1962;Primera, Grupo C;3 de junio de 1962;Sausalito, Vi§a del Mar;Espa§a;1;MÇxico;0;PT 0 a 0.;Local
+Chile 1962;Primera, Grupo D;3 de junio de 1962;Braden Cooper Co., Rancagua;Hungr°a;6;Bulgaria;1;PT 4 a 0.;Local
+Chile 1962;Primera, Grupo A;6 de junio de 1962;Carlos Dittborn, Arica;Uni¢n SoviÇtica;2;Uruguay;1;PT 1 a 0.;Local
+Chile 1962;Primera, Grupo B;6 de junio de 1962;Nacional, Santiago;Alemania Occidental;2;Chile;0;PT 1 a 0.;Local
+Chile 1962;Primera, Grupo C;6 de junio de 1962;Sausalito, Vi§a del Mar;Brasil;2;Espa§a;1;PT 0 a 1.;Local
+Chile 1962;Primera, Grupo D;6 de junio de 1962;Braden Cooper Co., Rancagua;Argentina;0;Hungr°a;0;PT 0 a 0.;Empate
+Chile 1962;Primera, Grupo A;7 de junio de 1962;Carlos Dittborn, Arica;Yugoslavia;5;Colombia;0;PT 2 a 0.;Local
+Chile 1962;Primera, Grupo B;7 de junio de 1962;Nacional, Santiago;Italia;3;Suiza;0;PT 1 a 0.;Local
+Chile 1962;Primera, Grupo C;7 de junio de 1962;Sausalito, Vi§a del Mar;MÇxico;3;Checoslovaquia;1;PT 2 a 1.;Local
+Chile 1962;Primera, Grupo D;7 de junio de 1962;Braden Cooper Co., Rancagua;Inglaterra;0;Bulgaria;0;PT 0 a 0.;Empate
+Chile 1962;Cuartos de Final, partido 1;10 de junio de 1962;Carlos Dittborn, Arica;Chile;2;Uni¢n SoviÇtica;1;PT 2 a 1.;Local
+Chile 1962;Cuartos de Final, partido 2;10 de junio de 1962;Braden Cooper Co., Rancagua;Checoslovaquia;1;Hungr°a;0;PT 1 a 0.;Local
+Chile 1962;Cuartos de Final, partido 3;10 de junio de 1962;Sausalito, Vi§a del Mar;Brasil;3;Inglaterra;1;PT 1 a 1.;Local
+Chile 1962;Cuartos de Final, partido 4;10 de junio de 1962;Nacional, Santiago;Yugoslavia;1;Alemania Occidental;0;PT 0 a 0.;Local
+Chile 1962;Semifinal 1;13 de junio de 1962;Sausalito, Vi§a del Mar;Checoslovaquia;3;Yugoslavia;1;PT 0 a 0.;Local
+Chile 1962;Semifinal 2;13 de junio de 1962;Nacional, Santiago;Brasil;4;Chile;2;PT 2 a 1.;Local
+Chile 1962;Tercer y Cuarto Puesto;16 de junio de 1962;Nacional, Santiago;Chile;1;Yugoslavia;0;PT 0 a 0.;Local
+Chile 1962;Final;17 de junio de 1962;Nacional, Santiago;Brasil;3;Checoslovaquia;1;PT 1 a 1.;Local
+Inglaterra 1966;Primera, Grupo A;11 de julio de 1966;Wembley, Londres;Uruguay;0;Inglaterra;0;PT 0 a 0.;Empate
+Inglaterra 1966;Primera, Grupo B;12 de julio de 1966;Hillsborough, Sheffield;Alemania Occidental;5;Suiza;0;PT 3 a 0.;Local
+Inglaterra 1966;Primera, Grupo C;12 de julio de 1966;Goodison Park, Liverpool;Brasil;2;Bulgaria;0;PT 1 a 0.;Local
+Inglaterra 1966;Primera, Grupo D;12 de julio de 1966;Ayresome Park, Middlesbrough;Uni¢n SoviÇtica;3;Corea del Norte;0;PT 2 a 0.;Local
+Inglaterra 1966;Primera, Grupo A;13 de julio de 1966;Wembley, Londres;Francia;1;MÇxico;1;PT 0 a 0.;Empate
+Inglaterra 1966;Primera, Grupo B;13 de julio de 1966;Villa Park, Birmingham;Argentina;2;Espa§a;1;PT 0 a 0.;Local
+Inglaterra 1966;Primera, Grupo C;13 de julio de 1966;Old Trafford, Manchester;Portugal;3;Hungr°a;1;PT 1 a 0.;Local
+Inglaterra 1966;Primera, Grupo D;13 de julio de 1966;Roker Park Ground, Sunderland;Italia;2;Chile;0;PT 1 a 0.;Local
+Inglaterra 1966;Primera, Grupo A;15 de julio de 1966;White City, Londres;Uruguay;2;Francia;1;PT 2 a 1.;Local
+Inglaterra 1966;Primera, Grupo B;15 de julio de 1966;Hillsborough, Sheffield;Espa§a;2;Suiza;1;PT 0 a 1.;Local
+Inglaterra 1966;Primera, Grupo C;15 de julio de 1966;Goodison Park, Liverpool;Hungr°a;3;Brasil;1;PT 1 a 1.;Local
+Inglaterra 1966;Primera, Grupo D;15 de julio de 1966;Ayresome Park, Middlesbrough;Corea del Norte;1;Chile;1;PT 0 a 1.;Empate
+Inglaterra 1966;Primera, Grupo A;16 de julio de 1966;Wembley, Londres;Inglaterra;2;MÇxico;0;PT 1 a 0.;Local
+Inglaterra 1966;Primera, Grupo B;16 de julio de 1966;Villa Park, Birmingham;Alemania Occidental;0;Argentina;0;PT 0 a 0.;Empate
+Inglaterra 1966;Primera, Grupo C;16 de julio de 1966;Old Trafford, Manchester;Portugal;3;Bulgaria;0;PT 2 a 0.;Local
+Inglaterra 1966;Primera, Grupo D;16 de julio de 1966;Roker Park Ground, Sunderland;Uni¢n SoviÇtica;1;Italia;0;PT 0 a 0.;Local
+Inglaterra 1966;Primera, Grupo A;19 de julio de 1966;Wembley, Londres;Uruguay;0;MÇxico;0;PT 0 a 0.;Empate
+Inglaterra 1966;Primera, Grupo B;19 de julio de 1966;Hillsborough, Sheffield;Argentina;2;Suiza;0;PT 0 a 0.;Local
+Inglaterra 1966;Primera, Grupo C;19 de julio de 1966;Goodison Park, Liverpool;Portugal;3;Brasil;1;PT 2 a 0.;Local
+Inglaterra 1966;Primera, Grupo D;19 de julio de 1966;Ayresome Park, Middlesbrough;Corea del Norte;1;Italia;0;PT 1 a 0.;Local
+Inglaterra 1966;Primera, Grupo A;20 de julio de 1966;Wembley, Londres;Inglaterra;2;Francia;0;PT 1 a 0.;Local
+Inglaterra 1966;Primera, Grupo B;20 de julio de 1966;Villa Park, Birmingham;Alemania Occidental;2;Espa§a;1;PT 1 a 1.;Local
+Inglaterra 1966;Primera, Grupo C;20 de julio de 1966;Old Trafford, Manchester;Hungr°a;3;Bulgaria;1;PT 2 a 1.;Local
+Inglaterra 1966;Primera, Grupo D;20 de julio de 1966;Roker Park Ground, Sunderland;Uni¢n SoviÇtica;2;Chile;1;PT 1 a 1.;Local
+Inglaterra 1966;Cuartos de Final, partido 1;23 de julio de 1966;Goodison Park, Liverpool;Portugal;5;Corea del Norte;3;PT 2 a 3.;Local
+Inglaterra 1966;Cuartos de Final, partido 2;23 de julio de 1966;Hillsborough, Sheffield;Alemania Occidental;4;Uruguay;0;PT 1 a 0.;Local
+Inglaterra 1966;Cuartos de Final, partido 3;23 de julio de 1966;Roker Park Ground, Sunderland;Uni¢n SoviÇtica;2;Hungr°a;1;PT 1 a 0.;Local
+Inglaterra 1966;Cuartos de Final, partido 4;23 de julio de 1966;Wembley, Londres;Inglaterra;1;Argentina;0;PT 0 a 0.;Local
+Inglaterra 1966;Semifinal 1;25 de julio de 1966;Goodison Park, Liverpool;Alemania Occidental;2;Uni¢n SoviÇtica;1;PT 1 a 0.;Local
+Inglaterra 1966;Semifinal 2;26 de julio de 1966;Wembley, Londres;Inglaterra;2;Portugal;1;PT 1 a 0.;Local
+Inglaterra 1966;Tercer y Cuarto Puesto;28 de julio de 1966;Wembley, Londres;Portugal;2;Uni¢n SoviÇtica;1;PT 1 a 1.;Local
+Inglaterra 1966;Final;30 de julio de 1966;Wembley, Londres;Inglaterra;4;Alemania Occidental;2;PT 1 a 1, ST 2 a 2. Suplementario.;Local
+MÇxico 1970;Primera, Grupo A;31 de mayo de 1970;Azteca, MÇxico;MÇxico;0;Uni¢n SoviÇtica;0;PT 0 a 0.;Empate
+MÇxico 1970;Primera, Grupo B;2 de junio de 1970;Cuauhtemoc, Puebla;Uruguay;2;Israel;0;PT 1 a 0.;Local
+MÇxico 1970;Primera, Grupo C;2 de junio de 1970;Jalisco, Guadalajara;Inglaterra;1;Rumania;0;PT 0 a 0.;Local
+MÇxico 1970;Primera, Grupo D;2 de junio de 1970;Guanajuato, Le¢n;Per£;3;Bulgaria;2;PT 0 a 1.;Local
+MÇxico 1970;Primera, Grupo A;3 de junio de 1970;Azteca, MÇxico;BÇlgica;3;El Salvador;0;PT 1 a 0.;Local
+MÇxico 1970;Primera, Grupo B;3 de junio de 1970;Luis Dosal, Toluca;Italia;1;Suecia;0;PT 1 a 0.;Local
+MÇxico 1970;Primera, Grupo C;3 de junio de 1970;Jalisco, Guadalajara;Brasil;4;Checoslovaquia;1;PT 1 a 1.;Local
+MÇxico 1970;Primera, Grupo D;3 de junio de 1970;Guanajuato, Le¢n;Alemania Occidental;2;Marruecos;1;PT 0 a 1.;Local
+MÇxico 1970;Primera, Grupo A;6 de junio de 1970;Azteca, MÇxico;Uni¢n SoviÇtica;4;BÇlgica;1;PT 1 a 0.;Local
+MÇxico 1970;Primera, Grupo B;6 de junio de 1970;Cuauhtemoc, Puebla;Uruguay;0;Italia;0;PT 0 a 0.;Empate
+MÇxico 1970;Primera, Grupo C;6 de junio de 1970;Jalisco, Guadalajara;Rumania;2;Checoslovaquia;1;PT 0 a 1.;Local
+MÇxico 1970;Primera, Grupo D;6 de junio de 1970;Guanajuato, Le¢n;Per£;3;Marruecos;0;PT 0 a 0.;Local
+MÇxico 1970;Primera, Grupo A;7 de junio de 1970;Azteca, MÇxico;MÇxico;4;El Salvador;0;PT 1 a 0.;Local
+MÇxico 1970;Primera, Grupo B;7 de junio de 1970;Luis Dosal, Toluca;Suecia;1;Israel;1;PT 0 a 0.;Empate
+MÇxico 1970;Primera, Grupo C;7 de junio de 1970;Jalisco, Guadalajara;Brasil;1;Inglaterra;0;PT 0 a 0.;Local
+MÇxico 1970;Primera, Grupo D;7 de junio de 1970;Guanajuato, Le¢n;Alemania Occidental;5;Bulgaria;2;PT 2 a 1.;Local
+MÇxico 1970;Primera, Grupo A;10 de junio de 1970;Azteca, MÇxico;Uni¢n SoviÇtica;2;El Salvador;0;PT 0 a 0.;Local
+MÇxico 1970;Primera, Grupo B;10 de junio de 1970;Cuauhtemoc, Puebla;Suecia;1;Uruguay;0;PT 0 a 0.;Local
+MÇxico 1970;Primera, Grupo C;10 de junio de 1970;Jalisco, Guadalajara;Brasil;3;Rumania;2;PT 2 a 1.;Local
+MÇxico 1970;Primera, Grupo D;10 de junio de 1970;Guanajuato, Le¢n;Alemania Occidental;3;Per£;1;PT 3 a 1.;Local
+MÇxico 1970;Primera, Grupo A;11 de junio de 1970;Azteca, MÇxico;MÇxico;1;BÇlgica;0;PT 1 a 0.;Local
+MÇxico 1970;Primera, Grupo B;11 de junio de 1970;Luis Dosal, Toluca;Italia;0;Israel;0;PT 0 a 0.;Empate
+MÇxico 1970;Primera, Grupo C;11 de junio de 1970;Jalisco, Guadalajara;Inglaterra;1;Checoslovaquia;0;PT 0 a 0.;Local
+MÇxico 1970;Primera, Grupo D;11 de junio de 1970;Guanajuato, Le¢n;Bulgaria;1;Marruecos;1;PT 1 a 0.;Empate
+MÇxico 1970;Cuartos de Final, partido 1;14 de junio de 1970;Guanajuato, Le¢n;Alemania Occidental;3;Inglaterra;2;PT 0 a 1, ST 2 a 2. Suplementario;Local
+MÇxico 1970;Cuartos de Final, partido 2;14 de junio de 1970;Jalisco, Guadalajara;Brasil;4;Per£;2;PT 2 a 1.;Local
+MÇxico 1970;Cuartos de Final, partido 3;14 de junio de 1970;Luis Dosal, Toluca;Italia;4;MÇxico;1;PT 1 a 1.;Local
+MÇxico 1970;Cuartos de Final, partido 4;14 de junio de 1970;Azteca, MÇxico;Uruguay;1;Uni¢n SoviÇtica;0;PT 0 a 0, ST 0 a 0. Suplementario.;Local
+MÇxico 1970;Semifinal 1;17 de junio de 1970;Jalisco, Guadalajara;Brasil;3;Uruguay;1;PT 1 a 1.;Local
+MÇxico 1970;Semifinal 2;17 de junio de 1970;Azteca, MÇxico;Italia;4;Alemania Occidental;3;PT 1 a 0, ST 1 a 1. Suplementario.;Local
+MÇxico 1970;Tercer y Cuarto Puesto;20 de junio de 1970;Azteca, MÇxico;Alemania Occidental;1;Uruguay;0;PT 1 a 0.;Local
+MÇxico 1970;Final;21 de junio de 1970;Azteca, MÇxico;Brasil;4;Italia;1;PT 1 a 1.;Local
+Alemania Occidental 1974;Primera, Grupo B;13 de junio de 1974;Waldstadion, Frankfurt;Brasil;0;Yugoslavia;0;PT 0 a 0.;Empate
+Alemania Occidental 1974;Primera, Grupo A;14 de junio de 1974;Olympiastadion, Berl°n;Alemania Occidental;1;Chile;0;PT 1 a 0.;Local
+Alemania Occidental 1974;Primera, Grupo A;14 de junio de 1974;Volksparkstadion, Hamburgo;Alemania Oriental;2;Australia;0;PT 0 a 0.;Local
+Alemania Occidental 1974;Primera, Grupo B;14 de junio de 1974;Westfalenstadion, Dortmund;Zaire;0;Escocia;2;PT 0 a 2.;Visita
+Alemania Occidental 1974;Primera, Grupo C;15 de junio de 1974;Niedersachsenstadion, Hanover;Uruguay;0;Pa°ses Bajos;2;PT 0 a 1.;Visita
+Alemania Occidental 1974;Primera, Grupo C;15 de junio de 1974;Rheinstadion, Dusseldorf;Suecia;0;Bulgaria;0;PT 0 a 0.;Empate
+Alemania Occidental 1974;Primera, Grupo D;15 de junio de 1974;Olympiastadion, Munich;Italia;3;Hait°;0;PT 0 a 0.;Local
+Alemania Occidental 1974;Primera, Grupo D;15 de junio de 1974;Neckarstadion, Stuttgart;Polonia;3;Argentina;2;PT 2 a 0.;Local
+Alemania Occidental 1974;Primera, Grupo A;18 de junio de 1974;Volksparkstadion, Hamburgo;Australia;0;Alemania Occidental;3;Pt 0 a 2.;Visita
+Alemania Occidental 1974;Primera, Grupo A;18 de junio de 1974;Olympiastadion, Berl°n;Chile;1;Alemania Oriental;1;PT 0 a 0.;Empate
+Alemania Occidental 1974;Primera, Grupo B;18 de junio de 1974;Parkstadion, Genselkirchen;Yugoslavia;9;Zaire;0;PT 6 a 0.;Local
+Alemania Occidental 1974;Primera, Grupo B;18 de junio de 1974;Waldstadion, Frankfurt;Escocia;0;Brasil;0;PT 0 a 0.;Empate
+Alemania Occidental 1974;Primera, Grupo C;19 de junio de 1974;Niedersachsenstadion, Hanover;Bulgaria;1;Uruguay;1;PT 0 a 0.;Empate
+Alemania Occidental 1974;Primera, Grupo C;19 de junio de 1974;Westfalenstadion, Dortmund;Pa°ses Bajos;0;Suecia;0;PT 0 a 0.;Empate
+Alemania Occidental 1974;Primera, Grupo D;19 de junio de 1974;Neckarstadion, Stuttgart;Argentina;1;Italia;1;PT 1 a 1.;Empate
+Alemania Occidental 1974;Primera, Grupo D;19 de junio de 1974;Olympiastadion, Munich;Hait°;0;Polonia;7;PT 0 a 5.;Visita
+Alemania Occidental 1974;Primera, Grupo A;22 de junio de 1974;Olympiastadion, Berl°n;Australia;0;Chile;0;PT 0 a 0.;Empate
+Alemania Occidental 1974;Primera, Grupo A;22 de junio de 1974;Volksparkstadion, Hamburgo;Alemania Oriental;1;Alemania Occidental;0;PT 0 a 0.;Local
+Alemania Occidental 1974;Primera, Grupo B;22 de junio de 1974;Waldstadion, Frankfurt;Escocia;1;Yugoslavia;1;PT 0 a 0.;Empate
+Alemania Occidental 1974;Primera, Grupo B;22 de junio de 1974;Waldstadion, Frankfurt;Zaire;0;Brasil;3;PT 0 a 1.;Visita
+Alemania Occidental 1974;Primera, Grupo C;23 de junio de 1974;Westfalenstadion, Dortmund;Bulgaria;1;Pa°ses Bajos;4;PT 0 a 2.;Visita
+Alemania Occidental 1974;Primera, Grupo C;23 de junio de 1974;Rheinstadion, Dusseldorf;Suecia;3;Uruguay;0;PT 0 a 0.;Local
+Alemania Occidental 1974;Primera, Grupo D;23 de junio de 1974;Olympiastadion, Munich;Argentina;4;Hait°;1;PT 2 a 0.;Local
+Alemania Occidental 1974;Primera, Grupo D;23 de junio de 1974;Neckarstadion, Stuttgart;Polonia;2;Italia;1;PT 2 a 0.;Local
+Alemania Occidental 1974;Segunda, Grupo 1;26 de junio de 1974;Parkstadion, Genselkirchen;Pa°ses Bajos;4;Argentina;0;PT 2 a 0.;Local
+Alemania Occidental 1974;Segunda, Grupo 1;26 de junio de 1974;Niedersachsenstadion, Hanover;Brasil;1;Alemania Oriental;0;PT 0 a 0.;Local
+Alemania Occidental 1974;Segunda, Grupo 2;26 de junio de 1974;Rheinstadion, Dusseldorf;Yugoslavia;0;Alemania Occidental;2;PT 0 a 1.;Visita
+Alemania Occidental 1974;Segunda, Grupo 2;26 de junio de 1974;Neckarstadion, Stuttgart;Suecia;0;Polonia;1;PT 0 a 1.;Visita
+Alemania Occidental 1974;Segunda, Grupo 1;30 de junio de 1974;Niedersachsenstadion, Hanover;Argentina;1;Brasil;2;PT 1 a 1.;Visita
+Alemania Occidental 1974;Segunda, Grupo 1;30 de junio de 1974;Parkstadion, Genselkirchen;Alemania Oriental;0;Pa°ses Bajos;2;PT 0 a 1.;Visita
+Alemania Occidental 1974;Segunda, Grupo 2;30 de junio de 1974;Waldstadion, Frankfurt;Polonia;2;Yugoslavia;1;PT 1 a 1.;Local
+Alemania Occidental 1974;Segunda, Grupo 2;30 de junio de 1974;Rheinstadion, Dusseldorf;Alemania Occidental;4;Suecia;2;PT 0 a 1.;Local
+Alemania Occidental 1974;Segunda, Grupo 1;3 de julio de 1974;Parkstadion, Genselkirchen;Argentina;1;Alemania Oriental;1;PT 1 a 1.;Empate
+Alemania Occidental 1974;Segunda, Grupo 1;3 de julio de 1974;Westfalenstadion, Dortmund;Pa°ses Bajos;2;Brasil;0;PT 0 a 0.;Local
+Alemania Occidental 1974;Segunda, Grupo 2;3 de julio de 1974;Waldstadion, Frankfurt;Polonia;0;Alemania Occidental;1;PT 0 a 0.;Visita
+Alemania Occidental 1974;Segunda, Grupo 2;3 de julio de 1974;Rheinstadion, Dusseldorf;Suecia;2;Yugoslavia;1;PT 1 a 1.;Local
+Alemania Occidental 1974;Tercer y Cuarto Puesto;6 de julio de 1974;Olympiastadion, Munich;Brasil;0;Polonia;1;PT 0 a 0.;Visita
+Alemania Occidental 1974;Final;7 de julio de 1974;Olympiastadion, Munich;Pa°ses Bajos;1;Alemania Occidental;2;PT 1 a 2.;Visita
+Argentina 1978;Primera, Grupo B;1 de junio de 1978;River Plate, Buenos Aires;Alemania Occidental;0;Polonia;0;PT 0 a 0.;Empate
+Argentina 1978;Primera, Grupo A;2 de junio de 1978;Mar del Plata, Mar del Plata;Italia;2;Francia;1;PT 1 a 1.;Local
+Argentina 1978;Primera, Grupo A;2 de junio de 1978;River Plate, Buenos Aires;Argentina;2;Hungr°a;1;PT 1 a 1.;Local
+Argentina 1978;Primera, Grupo B;2 de junio de 1978;Nuevo Rosario, Rosario;T£nez;3;MÇxico;1;PT 0 a 1.;Local
+Argentina 1978;Primera, Grupo C;3 de junio de 1978;JosÇ Amalfitani, Buenos Aires;Austria;2;Espa§a;1;PT 1 a 1.;Local
+Argentina 1978;Primera, Grupo C;3 de junio de 1978;Mar del Plata, Mar del Plata;Suecia;1;Brasil;1;PT 1 a 1.;Empate
+Argentina 1978;Primera, Grupo D;3 de junio de 1978;Chateau Carrera, C¢rdoba;Per£;3;Escocia;1;PT 1 a 1.;Local
+Argentina 1978;Primera, Grupo D;3 de junio de 1978;Mendoza, Mendoza;Pa°ses Bajos;3;Ir†n;0;PT 1 a 0.;Local
+Argentina 1978;Primera, Grupo A;6 de junio de 1978;Mar del Plata, Mar del Plata;Italia;3;Hungr°a;1;PT 2 a 0.;Local
+Argentina 1978;Primera, Grupo A;6 de junio de 1978;River Plate, Buenos Aires;Argentina;2;Francia;1;PT 1 a 0.;Local
+Argentina 1978;Primera, Grupo B;6 de junio de 1978;Chateau Carrera, C¢rdoba;Alemania Occidental;6;MÇxico;0;PT 4 a 0.;Local
+Argentina 1978;Primera, Grupo B;6 de junio de 1978;Nuevo Rosario, Rosario;Polonia;1;T£nez;0;PT 1 a 0.;Local
+Argentina 1978;Primera, Grupo C;7 de junio de 1978;JosÇ Amalfitani, Buenos Aires;Austria;1;Suecia;0;PT 1 a 0.;Local
+Argentina 1978;Primera, Grupo C;7 de junio de 1978;Mar del Plata, Mar del Plata;Brasil;0;Espa§a;0;PT 0 a 0.;Empate
+Argentina 1978;Primera, Grupo D;7 de junio de 1978;Chateau Carrera, C¢rdoba;Escocia;1;Ir†n;1;PT 1 a 0.;Empate
+Argentina 1978;Primera, Grupo D;7 de junio de 1978;Mendoza, Mendoza;Per£;0;Pa°ses Bajos;0;PT 0 a 0.;Empate
+Argentina 1978;Primera, Grupo A;10 de junio de 1978;Mar del Plata, Mar del Plata;Francia;3;Hungr°a;1;PT 3 a 1.;Local
+Argentina 1978;Primera, Grupo A;10 de junio de 1978;River Plate, Buenos Aires;Italia;1;Argentina;0;PT 0 a 0.;Local
+Argentina 1978;Primera, Grupo B;10 de junio de 1978;Chateau Carrera, C¢rdoba;Alemania Occidental;0;T£nez;0;PT 0 a 0.;Empate
+Argentina 1978;Primera, Grupo B;10 de junio de 1978;Nuevo Rosario, Rosario;Polonia;3;MÇxico;1;PT 1 a 0.;Local
+Argentina 1978;Primera, Grupo C;11 de junio de 1978;JosÇ Amalfitani, Buenos Aires;Espa§a;1;Suecia;0;PT 0 a 0.;Local
+Argentina 1978;Primera, Grupo C;11 de junio de 1978;Mar del Plata, Mar del Plata;Brasil;1;Austria;0;PT 1 a 0.;Local
+Argentina 1978;Primera, Grupo D;11 de junio de 1978;Chateau Carrera, C¢rdoba;Per£;4;Ir†n;1;PT 3 a 1.;Local
+Argentina 1978;Primera, Grupo D;11 de junio de 1978;Mendoza, Mendoza;Escocia;3;Pa°ses Bajos;2;PT 1 a 1.;Local
+Argentina 1978;Segunda, Grupo 1;14 de junio de 1978;Chateau Carrera, C¢rdoba;Pa°ses Bajos;5;Austria;1;PT 3 a 0.;Local
+Argentina 1978;Segunda, Grupo 1;14 de junio de 1978;River Plate, Buenos Aires;Alemania Occidental;0;Italia;0;PT 0 a 0.;Empate
+Argentina 1978;Segunda, Grupo 2;14 de junio de 1978;Mendoza, Mendoza;Brasil;3;Per£;0;PT 2 a 0.;Local
+Argentina 1978;Segunda, Grupo 2;14 de junio de 1978;Nuevo Rosario, Rosario;Argentina;2;Polonia;0;PT 1 a 0.;Local
+Argentina 1978;Segunda, Grupo 1;18 de junio de 1978;Chateau Carrera, C¢rdoba;Alemania Occidental;2;Pa°ses Bajos;2;PT 1 a 1.;Empate
+Argentina 1978;Segunda, Grupo 1;18 de junio de 1978;River Plate, Buenos Aires;Italia;1;Austria;0;PT 1 a 0.;Local
+Argentina 1978;Segunda, Grupo 2;18 de junio de 1978;Mendoza, Mendoza;Polonia;1;Per£;0;PT 0 a 0.;Local
+Argentina 1978;Segunda, Grupo 2;18 de junio de 1978;Nuevo Rosario, Rosario;Argentina;0;Brasil;0;PT 0 a 0.;Empate
+Argentina 1978;Segunda, Grupo 1;21 de junio de 1978;Chateau Carrera, C¢rdoba;Austria;3;Alemania Occidental;2;PT 0 a 1.;Local
+Argentina 1978;Segunda, Grupo 1;21 de junio de 1978;River Plate, Buenos Aires;Pa°ses Bajos;2;Italia;1;PT 0 a 1.;Local
+Argentina 1978;Segunda, Grupo 2;21 de junio de 1978;Mendoza, Mendoza;Brasil;3;Polonia;1;PT 1 a 1.;Local
+Argentina 1978;Segunda, Grupo 2;21 de junio de 1978;Nuevo Rosario, Rosario;Argentina;6;Per£;0;PT 2 a 0.;Local
+Argentina 1978;Tercer y Cuarto Puesto;24 de junio de 1978;River Plate, Buenos Aires;Brasil;2;Italia;1;PT 0 a 1.;Local
+Argentina 1978;Final;25 de junio de 1978;River Plate, Buenos Aires;Argentina;3;Pa°ses Bajos;1;PT 1 a 0, ST 1 a 1. Suplementario;Local
+Espa§a 1982;Primera, Grupo C;13 de junio de 1982;Camp Nou, Barcelona;Argentina;0;BÇlgica;1;PT 0 a 0.;Visita
+Espa§a 1982;Primera, Grupo A;14 de junio de 1982;Balaidos, Vigo;Italia;0;Polonia;0;PT 0 a 0.;Empate
+Espa§a 1982;Primera, Grupo F;14 de junio de 1982;S†nchez Pizjuan, Sevilla;Brasil;2;Uni¢n SoviÇtica;1;PT 0 a 1.;Local
+Espa§a 1982;Primera, Grupo A;15 de junio de 1982;Riazor, La Coru§a;Per£;0;Camer£n;0;PT 0 a 0.;Empate
+Espa§a 1982;Primera, Grupo C;15 de junio de 1982;Nuevo Estadio, Elche;Hungr°a;10;El Salvador;1;PT 3 a 0.;Local
+Espa§a 1982;Primera, Grupo F;15 de junio de 1982;La Rosaleda, M†laga;Escocia;5;Nueva Zelandia;2;PT 3 a 0.;Local
+Espa§a 1982;Primera, Grupo B;16 de junio de 1982;El Molin¢n, Gij¢n;Alemania Occidental;1;Argelia;2;PT 0 a 0.;Visita
+Espa§a 1982;Primera, Grupo D;16 de junio de 1982;San MamÇs, Bilbao;Inglaterra;3;Francia;1;PT 1 a 1.;Local
+Espa§a 1982;Primera, Grupo E;16 de junio de 1982;Luis Casanova, Valencia;Espa§a;1;Honduras;1;PT 0 a 1.;Empate
+Espa§a 1982;Primera, Grupo B;17 de junio de 1982;Carlos Tartiere, Oviedo;Chile;0;Austria;1;PT 0 a 1.;Visita
+Espa§a 1982;Primera, Grupo D;17 de junio de 1982;JosÇ Zorrilla, Valladolid;Checoslovaquia;1;Kuwait;1;PT 1 a 0.;Empate
+Espa§a 1982;Primera, Grupo E;17 de junio de 1982;La Romareda, Zaragoza;Yugoslavia;0;Irlanda del Norte;0;PT 0 a 0.;Empate
+Espa§a 1982;Primera, Grupo A;18 de junio de 1982;Balaidos, Vigo;Italia;1;Per£;1;PT 1 a 0.;Empate
+Espa§a 1982;Primera, Grupo C;18 de junio de 1982;JosÇ Rico PÇrez, Alicante;Argentina;4;Hungr°a;1;PT 2 a 0.;Local
+Espa§a 1982;Primera, Grupo F;18 de junio de 1982;Benito Villamar°n, Sevilla;Brasil;4;Escocia;1;PT 1 a 1.;Local
+Espa§a 1982;Primera, Grupo A;19 de junio de 1982;Riazor, La Coru§a;Polonia;0;Camer£n;0;PT 0 a 0.;Empate
+Espa§a 1982;Primera, Grupo C;19 de junio de 1982;Nuevo Estadio, Elche;BÇlgica;1;El Salvador;0;PT 1 a 0.;Local
+Espa§a 1982;Primera, Grupo F;19 de junio de 1982;La Rosaleda, M†laga;Uni¢n SoviÇtica;3;Nueva Zelandia;0;PT 1 a 0.;Local
+Espa§a 1982;Primera, Grupo B;20 de junio de 1982;El Molin¢n, Gij¢n;Alemania Occidental;4;Chile;1;PT 1 a 0.;Local
+Espa§a 1982;Primera, Grupo D;20 de junio de 1982;San MamÇs, Bilbao;Inglaterra;2;Checoslovaquia;0;PT 0 a 0.;Local
+Espa§a 1982;Primera, Grupo E;20 de junio de 1982;Luis Casanova, Valencia;Espa§a;2;Yugoslavia;1;PT 1 a 1.;Local
+Espa§a 1982;Primera, Grupo B;21 de junio de 1982;Carlos Tartiere, Oviedo;Argelia;0;Austria;2;PT 0 a 0.;Visita
+Espa§a 1982;Primera, Grupo D;21 de junio de 1982;JosÇ Zorrilla, Valladolid;Francia;4;Kuwait;1;PT 2 a 0.;Local
+Espa§a 1982;Primera, Grupo E;21 de junio de 1982;La Romareda, Zaragoza;Honduras;1;Irlanda del Norte;1;PT 0 a 1.;Empate
+Espa§a 1982;Primera, Grupo A;22 de junio de 1982;Riazor, La Coru§a;Polonia;5;Per£;1;PT 0 a 0.;Local
+Espa§a 1982;Primera, Grupo C;22 de junio de 1982;Nuevo Estadio, Elche;BÇlgica;1;Hungr°a;1;PT 0 a 1.;Empate
+Espa§a 1982;Primera, Grupo F;22 de junio de 1982;La Rosaleda, M†laga;Uni¢n SoviÇtica;2;Escocia;2;PT 0 a 1.;Empate
+Espa§a 1982;Primera, Grupo A;23 de junio de 1982;Balaidos, Vigo;Italia;1;Camer£n;1;PT 0 a 0.;Empate
+Espa§a 1982;Primera, Grupo C;23 de junio de 1982;JosÇ Rico PÇrez, Alicante;Argentina;2;El Salvador;0;PT 1 a 0.;Local
+Espa§a 1982;Primera, Grupo F;23 de junio de 1982;Benito Villamar°n, Sevilla;Brasil;4;Nueva Zelandia;0;PT 2 a 0.;Local
+Espa§a 1982;Primera, Grupo B;24 de junio de 1982;Carlos Tartiere, Oviedo;Argelia;3;Chile;2;PT 3 a 0.;Local
+Espa§a 1982;Primera, Grupo D;24 de junio de 1982;JosÇ Zorrilla, Valladolid;Francia;1;Checoslovaquia;1;PT 0 a 0.;Empate
+Espa§a 1982;Primera, Grupo E;24 de junio de 1982;La Romareda, Zaragoza;Honduras;0;Yugoslavia;1;PT 0 a 0.;Visita
+Espa§a 1982;Primera, Grupo B;25 de junio de 1982;El Molin¢n, Gij¢n;Alemania Occidental;1;Austria;0;PT 1 a 0.;Local
+Espa§a 1982;Primera, Grupo D;25 de junio de 1982;San MamÇs, Bilbao;Inglaterra;1;Kuwait;0;PT 1 a 0.;Local
+Espa§a 1982;Primera, Grupo E;25 de junio de 1982;Luis Casanova, Valencia;Irlanda del Norte;1;Espa§a;0;PT 0 a 0.;Local
+Espa§a 1982;Segunda, Grupo 1;28 de junio de 1982;Camp Nou, Barcelona;Polonia;3;BÇlgica;0;PT 2 a 0.;Local
+Espa§a 1982;Segunda, Grupo 4;28 de junio de 1982;Vicente Calder¢n, Madrid;Austria;0;Francia;1;PT 0 a 1.;Visita
+Espa§a 1982;Segunda, Grupo 2;29 de junio de 1982;Santiago Bernabeu, Madrid;Alemania Occidental;0;Inglaterra;0;PT 0 a 0.;Empate
+Espa§a 1982;Segunda, Grupo 3;29 de junio de 1982;Sarria, Barcelona;Italia;2;Argentina;1;PT 0 a 0.;Local
+Espa§a 1982;Segunda, Grupo 1;1 de julio de 1982;Camp Nou, Barcelona;BÇlgica;0;Uni¢n SoviÇtica;1;PT 0 a 0.;Visita
+Espa§a 1982;Segunda, Grupo 4;1 de julio de 1982;Vicente Calder¢n, Madrid;Austria;2;Irlanda del Norte;2;PT 0 a 1.;Empate
+Espa§a 1982;Segunda, Grupo 2;2 de julio de 1982;Santiago Bernabeu, Madrid;Alemania Occidental;2;Espa§a;1;PT 0 a 0.;Local
+Espa§a 1982;Segunda, Grupo 3;2 de julio de 1982;Sarria, Barcelona;Argentina;1;Brasil;3;PT 0 a 1.;Visita
+Espa§a 1982;Segunda, Grupo 1;4 de julio de 1982;Camp Nou, Barcelona;Polonia;0;Uni¢n SoviÇtica;0;PT 0 a 0.;Empate
+Espa§a 1982;Segunda, Grupo 4;4 de julio de 1982;Vicente Calder¢n, Madrid;Francia;4;Irlanda del Norte;1;PT 1 a 0.;Local
+Espa§a 1982;Segunda, Grupo 2;5 de julio de 1982;Santiago Bernabeu, Madrid;Espa§a;0;Inglaterra;0;PT 0 a 0.;Empate
+Espa§a 1982;Segunda, Grupo 3;5 de julio de 1982;Sarria, Barcelona;Italia;3;Brasil;2;PT 2 a 1.;Local
+Espa§a 1982;Semifinal 1;8 de julio de 1982;Camp Nou, Barcelona;Polonia;0;Italia;2;PT 0 a 1.;Visita
+Espa§a 1982;Semifinal 2;8 de julio de 1982;S†nchez Pizjuan, Sevilla;Alemania Occidental;8;Francia;7;PT 1 a 1, ST 1 a 1, Suplementario 3 a 3. Penales (5 a 4).;Local
+Espa§a 1982;Tercer y Cuarto Puesto;10 de julio de 1982;JosÇ Rico PÇrez, Alicante;Polonia;3;Francia;2;PT 2 a 1.;Local
+Espa§a 1982;Finales;11 de julio de 1982;Santiago Bernabeu, Madrid;Italia;3;Alemania Occidental;1;PT 0 a 0.;Local
+MÇxico 1986;Primera, Grupo A;31 de mayo de 1986;Azteca, MÇxico;Bulgaria;1;Italia;1;PT 0 a 1.;Empate
+MÇxico 1986;Primera, Grupo C;1 de junio de 1986;Nou Camp, Le¢n;Canad†;0;Francia;1;PT 0 a 0.;Visita
+MÇxico 1986;Primera, Grupo D;1 de junio de 1986;Jalisco, Guadalajara;Espa§a;0;Brasil;1;PT 0 a 0.;Visita
+MÇxico 1986;Primera, Grupo A;2 de junio de 1986;Ol°mpico, MÇxico;Argentina;3;Corea del Sur;1;PT 2 a 0.;Local
+MÇxico 1986;Primera, Grupo C;2 de junio de 1986;Irapuato, Irapuato;Uni¢n SoviÇtica;6;Hungr°a;0;PT 3 a 0.;Local
+MÇxico 1986;Primera, Grupo F;2 de junio de 1986;Universitario, Monterrey;Marruecos;0;Polonia;0;PT 0 a 0.;Empate
+MÇxico 1986;Primera, Grupo B;3 de junio de 1986;Azteca, MÇxico;BÇlgica;1;MÇxico;2;PT 1 a 2.;Visita
+MÇxico 1986;Primera, Grupo D;3 de junio de 1986;Tres de Marzo, Guadalajara;Argelia;1;Irlanda del Norte;1;PT 0 a 1.;Empate
+MÇxico 1986;Primera, Grupo F;3 de junio de 1986;Tecnol¢gico, Monterrey;Portugal;1;Inglaterra;0;PT 0 a 0.;Local
+MÇxico 1986;Primera, Grupo B;4 de junio de 1986;Bombonera, Toluca;Paraguay;1;Iraq;0;PT 1 a 0.;Local
+MÇxico 1986;Primera, Grupo E;4 de junio de 1986;La Corregidora, QuerÇtaro;Uruguay;1;Alemania Occidental;1;PT 1 a 0.;Empate
+MÇxico 1986;Primera, Grupo E;4 de junio de 1986;Neza, Nezahualcoyotl;Escocia;0;Dinamarca;1;PT 0 a 0.;Visita
+MÇxico 1986;Primera, Grupo A;5 de junio de 1986;Cuauhtemoc, Puebla;Italia;1;Argentina;1;PT 1 a 1.;Empate
+MÇxico 1986;Primera, Grupo A;5 de junio de 1986;Ol°mpico, MÇxico;Corea del Sur;1;Bulgaria;1;PT 0 a 1.;Empate
+MÇxico 1986;Primera, Grupo C;5 de junio de 1986;Nou Camp, Le¢n;Francia;1;Uni¢n SoviÇtica;1;PT 0 a 0.;Empate
+MÇxico 1986;Primera, Grupo C;6 de junio de 1986;Irapuato, Irapuato;Hungr°a;2;Canad†;0;PT 1 a 0.;Local
+MÇxico 1986;Primera, Grupo D;6 de junio de 1986;Jalisco, Guadalajara;Brasil;1;Argelia;0;PT 0 a 0.;Local
+MÇxico 1986;Primera, Grupo F;6 de junio de 1986;Tecnol¢gico, Monterrey;Inglaterra;0;Marruecos;0;PT 0 a 0.;Empate
+MÇxico 1986;Primera, Grupo B;7 de junio de 1986;Azteca, MÇxico;MÇxico;1;Paraguay;1;PT 1 a 0.;Empate
+MÇxico 1986;Primera, Grupo D;7 de junio de 1986;Tres de Marzo, Guadalajara;Irlanda del Norte;1;Espa§a;2;PT 0 a 2.;Visita
+MÇxico 1986;Primera, Grupo F;7 de junio de 1986;Universitario, Monterrey;Polonia;1;Portugal;0;PT 0 a 0.;Local
+MÇxico 1986;Primera, Grupo B;8 de junio de 1986;Bombonera, Toluca;Iraq;1;BÇlgica;2;PT 0 a 2.;Visita
+MÇxico 1986;Primera, Grupo E;8 de junio de 1986;La Corregidora, QuerÇtaro;Alemania Occidental;2;Escocia;1;PT 1 a 1.;Local
+MÇxico 1986;Primera, Grupo E;8 de junio de 1986;Neza, Nezahualcoyotl;Dinamarca;6;Uruguay;1;PT 2 a 1.;Local
+MÇxico 1986;Primera, Grupo C;9 de junio de 1986;Nou Camp, Le¢n;Hungr°a;0;Francia;3;PT 0 a 1.;Visita
+MÇxico 1986;Primera, Grupo C;9 de junio de 1986;Irapuato, Irapuato;Uni¢n SoviÇtica;2;Canad†;0;PT 0 a 0.;Local
+MÇxico 1986;Primera, Grupo A;10 de junio de 1986;Cuauhtemoc, Puebla;Corea del Sur;2;Italia;3;PT 0 a 1.;Visita
+MÇxico 1986;Primera, Grupo A;10 de junio de 1986;Ol°mpico, MÇxico;Argentina;2;Bulgaria;0;PT 1 a 0.;Local
+MÇxico 1986;Primera, Grupo B;11 de junio de 1986;Bombonera, Toluca;Paraguay;2;BÇlgica;2;PT 0 a 1.;Empate
+MÇxico 1986;Primera, Grupo B;11 de junio de 1986;Azteca, MÇxico;Iraq;0;MÇxico;1;PT 0 a 0.;Visita
+MÇxico 1986;Primera, Grupo F;11 de junio de 1986;Tecnol¢gico, Monterrey;Inglaterra;3;Polonia;0;PT 3 a 0.;Local
+MÇxico 1986;Primera, Grupo F;11 de junio de 1986;Jalisco, Guadalajara;Portugal;1;Marruecos;3;PT 0 a 2.;Visita
+MÇxico 1986;Primera, Grupo D;12 de junio de 1986;Jalisco, Guadalajara;Irlanda del Norte;0;Brasil;3;PT 0 a 2.;Visita
+MÇxico 1986;Primera, Grupo D;12 de junio de 1986;Tecnol¢gico, Monterrey;Argelia;0;Espa§a;3;PT 0 a 1.;Visita
+MÇxico 1986;Primera, Grupo E;13 de junio de 1986;La Corregidora, QuerÇtaro;Dinamarca;2;Alemania Occidental;0;PT 1 a 0.;Local
+MÇxico 1986;Primera, Grupo E;13 de junio de 1986;Neza, Nezahualcoyotl;Escocia;0;Uruguay;0;PT 0 a 0.;Empate
+MÇxico 1986;Octavos de Final, partido 1;15 de junio de 1986;Azteca, MÇxico;MÇxico;2;Bulgaria;0;PT 1 a 0.;Local
+MÇxico 1986;Octavos de Final, partido 2;15 de junio de 1986;Nou Camp, Le¢n;Uni¢n SoviÇtica;3;BÇlgica;4;PT 1 a 0, ST 2 a 2. Suplementario.;Visita
+MÇxico 1986;Octavos de Final, partido 3;16 de junio de 1986;Jalisco, Guadalajara;Brasil;4;Polonia;0;PT 1 a 0.;Local
+MÇxico 1986;Octavos de Final, partido 4;16 de junio de 1986;Cuauhtemoc, Puebla;Argentina;1;Uruguay;0;PT 1 a 0.;Local
+MÇxico 1986;Octavos de Final, partido 5;17 de junio de 1986;Ol°mpico, MÇxico;Italia;0;Francia;2;PT 0 a 1.;Visita
+MÇxico 1986;Octavos de Final, partido 6;17 de junio de 1986;Universitario, Monterrey;Marruecos;0;Alemania Occidental;1;PT 0 a 0.;Visita
+MÇxico 1986;Octavos de Final, partido 7;18 de junio de 1986;Azteca, MÇxico;Inglaterra;3;Paraguay;0;PT 1 a 0.;Local
+MÇxico 1986;Octavos de Final, partido 8;18 de junio de 1986;La Corregidora, QuerÇtaro;Dinamarca;1;Espa§a;5;PT 1 a 1.;Visita
+MÇxico 1986;Cuartos de Final, partido 1;21 de junio de 1986;Jalisco, Guadalajara;Brasil;4;Francia;5;PT 1 a 1, ST 1 a 1, Suplementario 1 a 1. Penales (3 a 4).;Visita
+MÇxico 1986;Cuartos de Final, partido 2;21 de junio de 1986;Universitario, Monterrey;Alemania Occidental;4;MÇxico;1;PT 0 a 0, ST 0 a 0, Suplementario 0 a 0. Penales (4 a 1).;Local
+MÇxico 1986;Cuartos de Final, partido 3;22 de junio de 1986;Azteca, MÇxico;Argentina;2;Inglaterra;1;PT 0 a 0.;Local
+MÇxico 1986;Cuartos de Final, partido 4;22 de junio de 1986;Cuauhtemoc, Puebla;Espa§a;5;BÇlgica;6;PT 0 a 1, ST 1 a 1, Suplementario 1 a 1. Penales (4 a 5).;Visita
+MÇxico 1986;Semifinal 1;25 de junio de 1986;Jalisco, Guadalajara;Francia;0;Alemania Occidental;2;PT 0 a 1.;Visita
+MÇxico 1986;Semifinal 2;25 de junio de 1986;Azteca, MÇxico;Argentina;2;BÇlgica;0;PT 0 a 0.;Local
+MÇxico 1986;Tercer y Cuarto Puesto;28 de junio de 1986;Cuauhtemoc, Puebla;Francia;4;BÇlgica;2;PT 2 a 1, ST 2 a 2. Suplementario.;Local
+MÇxico 1986;Finales;29 de junio de 1986;Azteca, MÇxico;Argentina;3;Alemania Occidental;2;PT 1 a 0.;Local
+Italia 1990;Primera, Grupo B;8 de junio de 1990;Giuseppe Meazza, Mil†n;Argentina;0;Camer£n;1;PT 0 a 0.;Visita
+Italia 1990;Primera, Grupo A;9 de junio de 1990;Ol°mipico, Roma;Italia;1;Austria;0;PT 0 a 0.;Local
+Italia 1990;Primera, Grupo B;9 de junio de 1990;Sant Nicola, Bari;Uni¢n SoviÇtica;0;Rumania;2;PT 0 a 1.;Visita
+Italia 1990;Primera, Grupo D;9 de junio de 1990;Renato Dall'Ara, Bologna;Emiratos µrabes Unidos;0;Colombia;2;PT 0 a 0.;Visita
+Italia 1990;Primera, Grupo A;10 de junio de 1990;Comunale, Florencia;Estados Unidos;1;Checoslovaquia;5;PT 0 a 2.;Visita
+Italia 1990;Primera, Grupo C;10 de junio de 1990;Delle Alpi, Tur°n;Brasil;2;Suecia;1;PT 1 a 0.;Local
+Italia 1990;Primera, Grupo D;10 de junio de 1990;Giuseppe Meazza, Mil†n;Alemania Occidental;4;Yugoslavia;1;PT 2 a 0.;Local
+Italia 1990;Primera, Grupo C;11 de junio de 1990;Luigi Ferraris, GÇnova;Costa Rica;1;Escocia;0;PT 0 a 0.;Local
+Italia 1990;Primera, Grupo F;11 de junio de 1990;Sant'Elia, Cagliari;Inglaterra;1;Irlanda;1;PT 1 a 0.;Empate
+Italia 1990;Primera, Grupo E;12 de junio de 1990;Marco Antonio Bentegodi, Verona;BÇlgica;2;Corea del Sur;0;PT 0 a 0.;Local
+Italia 1990;Primera, Grupo F;12 de junio de 1990;Della Favorita, Palermo;Pa°ses Bajos;1;Egipto;1;PT 0 a 0.;Empate
+Italia 1990;Primera, Grupo B;13 de junio de 1990;San Paolo, N†poles;Argentina;2;Uni¢n SoviÇtica;0;PT 1 a 0.;Local
+Italia 1990;Primera, Grupo E;13 de junio de 1990;Friuli, Udine;Uruguay;0;Espa§a;0;PT 0 a 0.;Empate
+Italia 1990;Primera, Grupo A;14 de junio de 1990;Ol°mipico, Roma;Italia;1;Estados Unidos;0;PT 1 a 0.;Local
+Italia 1990;Primera, Grupo B;14 de junio de 1990;Sant Nicola, Bari;Camer£n;2;Rumania;1;PT 0 a 0.;Local
+Italia 1990;Primera, Grupo D;14 de junio de 1990;Renato Dall'Ara, Bologna;Yugoslavia;1;Colombia;0;PT 0 a 0.;Local
+Italia 1990;Primera, Grupo A;15 de junio de 1990;Comunale, Florencia;Austria;0;Checoslovaquia;1;PT 0 a 1.;Visita
+Italia 1990;Primera, Grupo D;15 de junio de 1990;Giuseppe Meazza, Mil†n;Alemania Occidental;5;Emiratos µrabes Unidos;1;PT 2 a 0.;Local
+Italia 1990;Primera, Grupo C;16 de junio de 1990;Delle Alpi, Tur°n;Brasil;1;Costa Rica;0;PT 1 a 0.;Local
+Italia 1990;Primera, Grupo C;16 de junio de 1990;Luigi Ferraris, GÇnova;Suecia;1;Escocia;2;PT 0 a 1.;Visita
+Italia 1990;Primera, Grupo F;16 de junio de 1990;Sant'Elia, Cagliari;Inglaterra;0;Pa°ses Bajos;0;PT 0 a 0.;Empate
+Italia 1990;Primera, Grupo E;17 de junio de 1990;Friuli, Udine;Corea del Sur;1;Espa§a;3;PT 1 a 1.;Visita
+Italia 1990;Primera, Grupo E;17 de junio de 1990;Marco Antonio Bentegodi, Verona;BÇlgica;3;Uruguay;1;PT 2 a 0.;Local
+Italia 1990;Primera, Grupo F;17 de junio de 1990;Della Favorita, Palermo;Irlanda;0;Egipto;0;PT 0 a 0.;Empate
+Italia 1990;Primera, Grupo B;18 de junio de 1990;Sant Nicola, Bari;Camer£n;0;Uni¢n SoviÇtica;4;PT 0 a 2.;Visita
+Italia 1990;Primera, Grupo B;18 de junio de 1990;San Paolo, N†poles;Argentina;1;Rumania;1;PT 0 a 0.;Empate
+Italia 1990;Primera, Grupo A;19 de junio de 1990;Comunale, Florencia;Austria;2;Estados Unidos;1;PT 0 a 0.;Local
+Italia 1990;Primera, Grupo A;19 de junio de 1990;Ol°mipico, Roma;Italia;2;Checoslovaquia;0;PT 1 a 0.;Local
+Italia 1990;Primera, Grupo D;19 de junio de 1990;Giuseppe Meazza, Mil†n;Alemania Occidental;1;Colombia;1;PT 0 a 0.;Empate
+Italia 1990;Primera, Grupo D;19 de junio de 1990;Renato Dall'Ara, Bologna;Yugoslavia;4;Emiratos µrabes Unidos;1;PT 2 a 1.;Local
+Italia 1990;Primera, Grupo C;20 de junio de 1990;Delle Alpi, Tur°n;Brasil;1;Escocia;0;PT 0 a 0.;Local
+Italia 1990;Primera, Grupo C;20 de junio de 1990;Luigi Ferraris, GÇnova;Suecia;1;Costa Rica;2;PT 1 a 0.;Visita
+Italia 1990;Primera, Grupo E;21 de junio de 1990;Friuli, Udine;Corea del Sur;0;Uruguay;1;PT 0 a 0.;Visita
+Italia 1990;Primera, Grupo E;21 de junio de 1990;Marco Antonio Bentegodi, Verona;BÇlgica;1;Espa§a;2;PT 1 a 2.;Visita
+Italia 1990;Primera, Grupo F;21 de junio de 1990;Sant'Elia, Cagliari;Inglaterra;1;Egipto;0;PT 0 a 0.;Local
+Italia 1990;Primera, Grupo F;21 de junio de 1990;Della Favorita, Palermo;Irlanda;1;Pa°ses Bajos;1;PT 0 a 1.;Empate
+Italia 1990;Octavos de Final, partido 1;23 de junio de 1990;San Paolo, N†poles;Camer£n;2;Colombia;1;PT 0 a 0, ST 0 a 0. Suplementario.;Local
+Italia 1990;Octavos de Final, partido 2;23 de junio de 1990;Sant Nicola, Bari;Checoslovaquia;4;Costa Rica;1;PT 1 a 0.;Local
+Italia 1990;Octavos de Final, partido 3;24 de junio de 1990;Delle Alpi, Tur°n;Brasil;0;Argentina;1;PT 0 a 0.;Visita
+Italia 1990;Octavos de Final, partido 4;24 de junio de 1990;Giuseppe Meazza, Mil†n;Alemania Occidental;2;Pa°ses Bajos;1;PT 0 a 0.;Local
+Italia 1990;Octavos de Final, partido 5;25 de junio de 1990;Luigi Ferraris, GÇnova;Irlanda;5;Rumania;4;PT 0 a 0, ST 0 a 0, Suplementario 0 a 0. Penales (5 a 4).;Local
+Italia 1990;Octavos de Final, partido 6;25 de junio de 1990;Ol°mipico, Roma;Italia;2;Uruguay;0;PT 0 a 0.;Local
+Italia 1990;Octavos de Final, partido 7;26 de junio de 1990;Marco Antonio Bentegodi, Verona;Espa§a;1;Yugoslavia;2;PT 0 a 0, ST 1 a 1. Suplementario.;Visita
+Italia 1990;Octavos de Final, partido 8;26 de junio de 1990;Renato Dall'Ara, Bologna;Inglaterra;1;BÇlgica;0;PT 0 a 0, ST 0 a 0. Suplementario.;Local
+Italia 1990;Cuartos de Final, partido 1;30 de junio de 1990;Comunale, Florencia;Yugoslavia;2;Argentina;3;PT 0 a 0, ST 0 a 0, Suplementario 0 a 0. Penales (2 a 3);Visita
+Italia 1990;Cuartos de Final, partido 2;30 de junio de 1990;Ol°mipico, Roma;Italia;1;Irlanda;0;PT 1 a 0.;Local
+Italia 1990;Cuartos de Final, partido 3;1 de julio de 1990;Giuseppe Meazza, Mil†n;Alemania Occidental;1;Checoslovaquia;0;PT 1 a 0.;Local
+Italia 1990;Cuartos de Final, partido 4;1 de julio de 1990;San Paolo, N†poles;Inglaterra;3;Camer£n;2;PT 1 a 0, ST 2 a 2. Suplementario.;Local
+Italia 1990;Semifinal 1;3 de julio de 1990;San Paolo, N†poles;Italia;4;Argentina;5;PT 1 a 0, ST 1 a 1, Suplementario 1 a 1. Penales (3 a 4).;Visita
+Italia 1990;Semifinal 2;4 de julio de 1990;Delle Alpi, Tur°n;Alemania Occidental;5;Inglaterra;4;PT 0 a 0, ST 1 a 1, Suplementario 1 a 1. Penales (4 a 3).;Local
+Italia 1990;Tercer y Cuarto Puesto;7 de julio de 1990;Sant Nicola, Bari;Italia;2;Inglaterra;1;PT 0 a 0.;Local
+Italia 1990;Final;8 de julio de 1990;Ol°mipico, Roma;Alemania Occidental;1;Argentina;0;PT 0 a 0.;Local
+Estados Unidos 1994;Primera, Grupo C;17 de junio de 1994;Soldier Field, Chicago;Alemania;1;Bolivia;0;PT 0 a 0.;Local
+Estados Unidos 1994;Primera, Grupo C;17 de junio de 1994;Cotton Bowl, Dallas;Espa§a;2;Corea del Sur;2;PT 0 a 0.;Empate
+Estados Unidos 1994;Primera, Grupo A;18 de junio de 1994;Pontiac Silverdome, Detroit;Estados Unidos;1;Suiza;1;PT 1 a 1.;Empate
+Estados Unidos 1994;Primera, Grupo A;18 de junio de 1994;Rose Bowl, Los µngeles;Colombia;1;Rumania;3;PT 1 a 2.;Visita
+Estados Unidos 1994;Primera, Grupo E;18 de junio de 1994;Giants Stadium, Nueva York/Nueva Jersey;Italia;0;Irlanda;1;PT 0 a 1.;Visita
+Estados Unidos 1994;Primera, Grupo B;19 de junio de 1994;Rose Bowl, Los µngeles;Camer£n;2;Suecia;2;PT 1 a 1.;Empate
+Estados Unidos 1994;Primera, Grupo E;19 de junio de 1994;RFK Stadium, Washington DC;Noruega;1;MÇxico;0;PT 0 a 0.;Local
+Estados Unidos 1994;Primera, Grupo F;19 de junio de 1994;Citrus Bowl, Orlando;BÇlgica;1;Marruecos;0;PT 1 a 0.;Local
+Estados Unidos 1994;Primera, Grupo B;20 de junio de 1994;Stanford Stadium, San Francisco;Brasil;2;Rusia;0;PT 1 a 0.;Local
+Estados Unidos 1994;Primera, Grupo F;20 de junio de 1994;RFK Stadium, Washington DC;Pa°ses Bajos;2;Arabia Saudita;1;PT 0 a 1.;Local
+Estados Unidos 1994;Primera, Grupo C;21 de junio de 1994;Soldier Field, Chicago;Alemania;1;Espa§a;1;PT 0 a 1.;Empate
+Estados Unidos 1994;Primera, Grupo D;21 de junio de 1994;Foxboro Stadium, Boston;Argentina;4;Grecia;0;PT 2 a 0.;Local
+Estados Unidos 1994;Primera, Grupo D;21 de junio de 1994;Cotton Bowl, Dallas;Nigeria;3;Bulgaria;0;PT 2 a 0.;Local
+Estados Unidos 1994;Primera, Grupo A;22 de junio de 1994;Pontiac Silverdome, Detroit;Rumania;1;Suiza;4;PT 1 a 1.;Visita
+Estados Unidos 1994;Primera, Grupo A;22 de junio de 1994;Rose Bowl, Los µngeles;Estados Unidos;2;Colombia;1;PT 1 a 0.;Local
+Estados Unidos 1994;Primera, Grupo C;23 de junio de 1994;Foxboro Stadium, Boston;Corea del Sur;0;Bolivia;0;PT 0 a 0.;Empate
+Estados Unidos 1994;Primera, Grupo E;23 de junio de 1994;Giants Stadium, Nueva York/Nueva Jersey;Italia;1;Noruega;0;PT 0 a 0.;Local
+Estados Unidos 1994;Primera, Grupo B;24 de junio de 1994;Stanford Stadium, San Francisco;Brasil;3;Camer£n;0;PT 1 a 0.;Local
+Estados Unidos 1994;Primera, Grupo B;24 de junio de 1994;Pontiac Silverdome, Detroit;Suecia;3;Rusia;1;PT 1 a 1.;Local
+Estados Unidos 1994;Primera, Grupo E;24 de junio de 1994;Citrus Bowl, Orlando;MÇxico;2;Irlanda;1;PT 1 a 0.;Local
+Estados Unidos 1994;Primera, Grupo D;25 de junio de 1994;Foxboro Stadium, Boston;Argentina;2;Nigeria;1;PT 2 a 1.;Local
+Estados Unidos 1994;Primera, Grupo F;25 de junio de 1994;Giants Stadium, Nueva York/Nueva Jersey;Arabia Saudita;2;Marruecos;1;PT 2 a 1.;Local
+Estados Unidos 1994;Primera, Grupo F;25 de junio de 1994;Citrus Bowl, Orlando;BÇlgica;1;Pa°ses Bajos;0;PT 0 a 0.;Local
+Estados Unidos 1994;Primera, Grupo A;26 de junio de 1994;Stanford Stadium, San Francisco;Suiza;0;Colombia;2;PT 0 a 1.;Visita
+Estados Unidos 1994;Primera, Grupo A;26 de junio de 1994;Rose Bowl, Los µngeles;Estados Unidos;0;Rumania;1;PT 0 a 1.;Visita
+Estados Unidos 1994;Primera, Grupo D;26 de junio de 1994;Soldier Field, Chicago;Bulgaria;4;Grecia;0;PT 1 a 0.;Local
+Estados Unidos 1994;Primera, Grupo C;27 de junio de 1994;Soldier Field, Chicago;Bolivia;1;Espa§a;3;PT 0 a 1.;Visita
+Estados Unidos 1994;Primera, Grupo C;27 de junio de 1994;Cotton Bowl, Dallas;Alemania;3;Corea del Sur;2;PT 3 a 0.;Local
+Estados Unidos 1994;Primera, Grupo B;28 de junio de 1994;Stanford Stadium, San Francisco;Rusia;6;Camer£n;1;PT 3 a 0.;Local
+Estados Unidos 1994;Primera, Grupo B;28 de junio de 1994;Pontiac Silverdome, Detroit;Brasil;1;Suecia;1;PT 0 a 1.;Empate
+Estados Unidos 1994;Primera, Grupo E;28 de junio de 1994;RFK Stadium, Washington DC;Italia;1;MÇxico;1;PT 0 a 0.;Empate
+Estados Unidos 1994;Primera, Grupo E;28 de junio de 1994;Giants Stadium, Nueva York/Nueva Jersey;Irlanda;0;Noruega;0;PT 0 a 0.;Empate
+Estados Unidos 1994;Primera, Grupo F;29 de junio de 1994;RFK Stadium, Washington DC;BÇlgica;0;Arabia Saudita;1;PT 0 a 1.;Visita
+Estados Unidos 1994;Primera, Grupo F;29 de junio de 1994;Citrus Bowl, Orlando;Marruecos;1;Pa°ses Bajos;2;PT 0 a 1.;Visita
+Estados Unidos 1994;Primera, Grupo D;30 de junio de 1994;Cotton Bowl, Dallas;Argentina;0;Bulgaria;2;PT 0 a 0.;Visita
+Estados Unidos 1994;Primera, Grupo D;30 de junio de 1994;Foxboro Stadium, Boston;Grecia;0;Nigeria;2;PT 0 a 1.;Visita
+Estados Unidos 1994;Octavos de Final, partido 1;2 de julio de 1994;Soldier Field, Chicago;Alemania;3;BÇlgica;2;PT 3 a 1.;Local
+Estados Unidos 1994;Octavos de Final, partido 2;2 de julio de 1994;RFK Stadium, Washington DC;Espa§a;3;Suiza;0;PT 1 a 0.;Local
+Estados Unidos 1994;Octavos de Final, partido 3;3 de julio de 1994;Cotton Bowl, Dallas;Arabia Saudita;1;Suecia;3;PT 0 a 1.;Visita
+Estados Unidos 1994;Octavos de Final, partido 4;3 de julio de 1994;Rose Bowl, Los µngeles;Rumania;3;Argentina;2;PT 2 a 1.;Local
+Estados Unidos 1994;Octavos de Final, partido 5;4 de julio de 1994;Citrus Bowl, Orlando;Pa°ses Bajos;2;Irlanda;0;PT 2 a 0.;Local
+Estados Unidos 1994;Octavos de Final, partido 6;4 de julio de 1994;Stanford Stadium, San Francisco;Brasil;1;Estados Unidos;0;PT 1 a 0.;Local
+Estados Unidos 1994;Octavos de Final, partido 7;5 de julio de 1994;Foxboro Stadium, Boston;Nigeria;1;Italia;2;PT 1 a 0, ST 1 a 1. Suplementario.;Visita
+Estados Unidos 1994;Octavos de Final, partido 8;5 de julio de 1994;Giants Stadium, Nueva York/Nueva Jersey;MÇxico;2;Bulgaria;4;PT 1 a 1, ST 1 a 1, Suplementario 1 a 1. Penales (1 a 3).;Visita
+Estados Unidos 1994;Cuartos de Final, partido 1;9 de julio de 1994;Foxboro Stadium, Boston;Italia;2;Espa§a;1;PT 1 a 0.;Local
+Estados Unidos 1994;Cuartos de Final, partido 2;9 de julio de 1994;Cotton Bowl, Dallas;Pa°ses Bajos;2;Brasil;3;PT 0 a 0.;Visita
+Estados Unidos 1994;Cuartos de Final, partido 3;10 de julio de 1994;Giants Stadium, Nueva York/Nueva Jersey;Bulgaria;2;Alemania;1;PT 0 a 0.;Local
+Estados Unidos 1994;Cuartos de Final, partido 4;10 de julio de 1994;Stanford Stadium, San Francisco;Rumania;6;Suecia;7;PT 0 a 0, ST 1 a 1, Suplementario 2 a 2. Penales (4 a 5).;Visita
+Estados Unidos 1994;Semifinal 1;13 de julio de 1994;Giants Stadium, Nueva York/Nueva Jersey;Bulgaria;1;Italia;2;PT 1 a 2.;Visita
+Estados Unidos 1994;Semifinal 2;13 de julio de 1994;Rose Bowl, Los µngeles;Suecia;0;Brasil;1;PT 0 a 0.;Visita
+Estados Unidos 1994;Tercer y Cuarto Puesto;16 de julio de 1994;Rose Bowl, Los µngeles;Bulgaria;0;Suecia;4;PT 4 a 0.;Visita
+Estados Unidos 1994;Final;17 de julio de 1994;Rose Bowl, Los µngeles;Brasil;3;Italia;2;PT 0 a 0, ST 0 a 0, Suplementario 0 a 0. Penales (3 a 2).;Local
+Francia 1998;Primera, Grupo A;10 de junio de 1998;Stade de France, Saint Denis;Brasil;2;Escocia;1;PT 1 a 1.;Local
+Francia 1998;Primera, Grupo A;10 de junio de 1998;La Mosson, Montpellier;Marruecos;2;Noruega;2;PT 1 a 1.;Empate
+Francia 1998;Primera, Grupo B;11 de junio de 1998;Parc Lescure, Burdeos;Italia;2;Chile;2;PT 1 a 1.;Empate
+Francia 1998;Primera, Grupo B;11 de junio de 1998;Municipal, Toulouse;Camer£n;1;Austria;1;PT 0 a 0.;Empate
+Francia 1998;Primera, Grupo C;12 de junio de 1998;Felix Bollaert, Lens;Arabia Saudita;0;Dinamarca;1;PT 0 a 0.;Visita
+Francia 1998;Primera, Grupo C;12 de junio de 1998;Velodrome, Marsella;Francia;3;Sud†frica;0;PT 1 a 0.;Local
+Francia 1998;Primera, Grupo D;12 de junio de 1998;La Mosson, Montpellier;Paraguay;0;Bulgaria;0;PT 0 a 0.;Empate
+Francia 1998;Primera, Grupo D;13 de junio de 1998;La Beaujoire, Nantes;Espa§a;2;Nigeria;3;PT 1 a 1.;Visita
+Francia 1998;Primera, Grupo E;13 de junio de 1998;Gerland, Lyon;Corea del Sur;1;MÇxico;3;PT 1 a 0.;Visita
+Francia 1998;Primera, Grupo E;13 de junio de 1998;Stade de France, Saint Denis;Pa°ses Bajos;0;BÇlgica;0;PT 0 a 0.;Empate
+Francia 1998;Primera, Grupo F;14 de junio de 1998;Geoffroy-Guichard, Saint Ettiene;Yugoslavia;1;Ir†n;0;PT 0 a 0.;Local
+Francia 1998;Primera, Grupo H;14 de junio de 1998;Municipal, Toulouse;Argentina;1;Jap¢n;0;PT 1 a 0.;Local
+Francia 1998;Primera, Grupo H;14 de junio de 1998;Felix Bollaert, Lens;Jamaica;1;Croacia;3;PT 1 a 1.;Visita
+Francia 1998;Primera, Grupo F;15 de junio de 1998;Parc des Princes, Par°s;Alemania;2;Estados Unidos;0;PT 1 a 0.;Local
+Francia 1998;Primera, Grupo G;15 de junio de 1998;Velodrome, Marsella;Inglaterra;2;T£nez;0;PT 1 a 0.;Local
+Francia 1998;Primera, Grupo G;15 de junio de 1998;Gerland, Lyon;Rumania;1;Colombia;0;PT 1 a 0.;Local
+Francia 1998;Primera, Grupo A;16 de junio de 1998;Parc Lescure, Burdeos;Escocia;1;Noruega;1;PT 0 a 0.;Empate
+Francia 1998;Primera, Grupo A;16 de junio de 1998;La Beaujoire, Nantes;Brasil;3;Marruecos;0;PT 2 a 0.;Local
+Francia 1998;Primera, Grupo B;17 de junio de 1998;Geoffroy-Guichard, Saint Ettiene;Chile;1;Austria;1;PT 0 a 0.;Empate
+Francia 1998;Primera, Grupo B;17 de junio de 1998;La Mosson, Montpellier;Italia;3;Camer£n;0;PT 1 a 0.;Local
+Francia 1998;Primera, Grupo C;18 de junio de 1998;Municipal, Toulouse;Sud†frica;1;Dinamarca;1;PT 0 a 1.;Empate
+Francia 1998;Primera, Grupo C;18 de junio de 1998;Stade de France, Saint Denis;Francia;4;Arabia Saudita;0;PT 1 a 0.;Local
+Francia 1998;Primera, Grupo D;19 de junio de 1998;Parc des Princes, Par°s;Nigeria;1;Bulgaria;0;PT 1 a 0.;Local
+Francia 1998;Primera, Grupo D;19 de junio de 1998;Geoffroy-Guichard, Saint Ettiene;Espa§a;0;Paraguay;0;PT 0 a 0.;Empate
+Francia 1998;Primera, Grupo E;20 de junio de 1998;Parc Lescure, Burdeos;BÇlgica;2;MÇxico;2;PT 1 a 0.;Empate
+Francia 1998;Primera, Grupo E;20 de junio de 1998;Velodrome, Marsella;Pa°ses Bajos;5;Corea del Sur;0;PT 2 a 0.;Local
+Francia 1998;Primera, Grupo H;20 de junio de 1998;La Beaujoire, Nantes;Jap¢n;0;Croacia;1;PT 0 a 0.;Visita
+Francia 1998;Primera, Grupo F;21 de junio de 1998;Felix Bollaert, Lens;Alemania;2;Yugoslavia;2;PT 0 a 1.;Empate
+Francia 1998;Primera, Grupo F;21 de junio de 1998;Gerland, Lyon;Estados Unidos;1;Ir†n;2;PT 0 a 1.;Visita
+Francia 1998;Primera, Grupo H;21 de junio de 1998;Parc des Princes, Par°s;Argentina;5;Jamaica;0;PT 1 a 0.;Local
+Francia 1998;Primera, Grupo G;22 de junio de 1998;La Mosson, Montpellier;Colombia;1;T£nez;0;PT 0 a 0.;Local
+Francia 1998;Primera, Grupo G;22 de junio de 1998;Municipal, Toulouse;Rumania;2;Inglaterra;1;PT 0 a 0.;Local
+Francia 1998;Primera, Grupo A;23 de junio de 1998;Velodrome, Marsella;Brasil;1;Noruega;2;PT 0 a 0.;Visita
+Francia 1998;Primera, Grupo A;23 de junio de 1998;Geoffroy-Guichard, Saint Ettiene;Escocia;0;Marruecos;3;PT 0 a 1.;Visita
+Francia 1998;Primera, Grupo B;23 de junio de 1998;Stade de France, Saint Denis;Italia;2;Austria;1;PT 0 a 0.;Local
+Francia 1998;Primera, Grupo B;23 de junio de 1998;La Beaujoire, Nantes;Chile;1;Camer£n;1;PT 1 a 0.;Empate
+Francia 1998;Primera, Grupo C;24 de junio de 1998;Gerland, Lyon;Francia;2;Dinamarca;1;PT 1 a 1.;Local
+Francia 1998;Primera, Grupo C;24 de junio de 1998;Parc Lescure, Burdeos;Sud†frica;2;Arabia Saudita;2;PT 1 a 1.;Empate
+Francia 1998;Primera, Grupo D;24 de junio de 1998;Municipal, Toulouse;Nigeria;1;Paraguay;3;PT 1 a 1.;Visita
+Francia 1998;Primera, Grupo D;24 de junio de 1998;Felix Bollaert, Lens;Espa§a;6;Bulgaria;1;PT 2 a 0.;Local
+Francia 1998;Primera, Grupo E;25 de junio de 1998;Geoffroy-Guichard, Saint Ettiene;Pa°ses Bajos;2;MÇxico;2;PT 2 a 0.;Empate
+Francia 1998;Primera, Grupo E;25 de junio de 1998;Parc des Princes, Par°s;BÇlgica;1;Corea del Sur;1;PT 1 a 0.;Empate
+Francia 1998;Primera, Grupo F;25 de junio de 1998;La Beaujoire, Nantes;Estados Unidos;0;Yugoslavia;1;PT 0 a 1.;Visita
+Francia 1998;Primera, Grupo F;25 de junio de 1998;La Mosson, Montpellier;Alemania;2;Ir†n;0;PT 0 a 0.;Local
+Francia 1998;Primera, Grupo G;26 de junio de 1998;Felix Bollaert, Lens;Colombia;0;Inglaterra;2;PT 0 a 2.;Visita
+Francia 1998;Primera, Grupo G;26 de junio de 1998;Stade de France, Saint Denis;Rumania;1;T£nez;1;PT 0 a 1.;Empate
+Francia 1998;Primera, Grupo H;26 de junio de 1998;Parc Lescure, Burdeos;Argentina;1;Croacia;0;PT 1 a 0.;Local
+Francia 1998;Primera, Grupo H;26 de junio de 1998;Gerland, Lyon;Jap¢n;1;Jamaica;2;PT 0 a 1.;Visita
+Francia 1998;Octavos de Final, partido 1;27 de junio de 1998;Velodrome, Marsella;Italia;1;Noruega;0;PT 1 a 0.;Local
+Francia 1998;Octavos de Final, partido 2;27 de junio de 1998;Parc des Princes, Par°s;Brasil;4;Chile;1;PT 3 a 0.;Local
+Francia 1998;Octavos de Final, partido 3;28 de junio de 1998;Felix Bollaert, Lens;Francia;1;Paraguay;0;PT 0 a 0, ST 0 a 0. Suplementario.;Local
+Francia 1998;Octavos de Final, partido 4;28 de junio de 1998;Stade de France, Saint Denis;Nigeria;1;Dinamarca;4;PT 0 a 2.;Visita
+Francia 1998;Octavos de Final, partido 5;29 de junio de 1998;La Mosson, Montpellier;Alemania;2;MÇxico;1;PT 0 a 0.;Local
+Francia 1998;Octavos de Final, partido 6;29 de junio de 1998;Municipal, Toulouse;Pa°ses Bajos;2;Yugoslavia;1;PT 1 a 0.;Local
+Francia 1998;Octavos de Final, partido 7;30 de junio de 1998;Parc Lescure, Burdeos;Rumania;0;Croacia;1;PT 0 a 1.;Visita
+Francia 1998;Octavos de Final, partido 8;30 de junio de 1998;Geoffroy-Guichard, Saint Ettiene;Argentina;6;Inglaterra;5;PT 2 a 2, ST 2 a 2, Suplementario 2 a 2. Penales (4 a 3).;Local
+Francia 1998;Cuartos de Final, partido 1;3 de julio de 1998;Stade de France, Saint Denis;Italia;3;Francia;4;PT 0 a 0, ST 0 a 0, Suplementario 0 a 0. Penales (3 a 4).;Visita
+Francia 1998;Cuartos de Final, partido 2;3 de julio de 1998;La Beaujoire, Nantes;Brasil;3;Dinamarca;2;PT 2 a 1.;Local
+Francia 1998;Cuartos de Final, partido 3;4 de julio de 1998;Velodrome, Marsella;Pa°ses Bajos;2;Argentina;1;PT 1 a 1.;Local
+Francia 1998;Cuartos de Final, partido 4;4 de julio de 1998;Gerland, Lyon;Alemania;0;Croacia;3;PT 0 a 1.;Visita
+Francia 1998;Semifinal 1;7 de julio de 1998;Velodrome, Marsella;Brasil;5;Pa°ses Bajos;3;PT 0 a 0, ST 1 a 1, Suplementario 1 a 1. Penales (4 a 2).;Local
+Francia 1998;Semifinal 2;8 de julio de 1998;Stade de France, Saint Denis;Francia;2;Croacia;1;PT 0 a 0.;Local
+Francia 1998;Tercer y Cuarto Puesto;11 de julio de 1998;Parc des Princes, Par°s;Pa°ses Bajos;1;Croacia;2;PT 1 a 2.;Visita
+Francia 1998;Final;12 de julio de 1998;Stade de France, Saint Denis;Brasil;0;Francia;3;PT 0 a 2.;Visita
+Jap¢n y Corea del Sur 2002;Primera, Grupo A;31 de mayo de 2002;Se£l WC Stadium, Se£l;Francia;0;Senegal;1;PT 0 a 1.;Visita
+Jap¢n y Corea del Sur 2002;Primera, Grupo A;1 de junio de 2002;Munsu Football Stadium, Ulsan;Uruguay;1;Dinamarca;2;PT 0 a 1.;Visita
+Jap¢n y Corea del Sur 2002;Primera, Grupo E;1 de junio de 2002;Niigata Stadium Big Swan, Niigata;Irlanda;1;Camer£n;1;PT 0 a 1.;Empate
+Jap¢n y Corea del Sur 2002;Primera, Grupo E;1 de junio de 2002;Sapporo Dome, Sapporo;Alemania;8;Arabia Saudita;0;PT 4 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo B;2 de junio de 2002;Busan Asiad Main Stadium, Busan;Paraguay;2;Sud†frica;2;PT 1 a 0.;Empate
+Jap¢n y Corea del Sur 2002;Primera, Grupo B;2 de junio de 2002;Kwangju WC Stadium, Kwangju;Espa§a;3;Eslovenia;1;PT 1 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo F;2 de junio de 2002;Kashima Stadium, Ibaraki;Argentina;1;Nigeria;0;PT 0 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo F;2 de junio de 2002;Saitama Stadium 2002, Saitama;Inglaterra;1;Suecia;1;PT 1 a 0.;Empate
+Jap¢n y Corea del Sur 2002;Primera, Grupo C;3 de junio de 2002;Munsu Football Stadium, Ulsan;Brasil;2;Turqu°a;1;PT 0 a 1.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo G;3 de junio de 2002;Niigata Stadium Big Swan, Niigata;Croacia;0;MÇxico;1;PT 0 a 0.;Visita
+Jap¢n y Corea del Sur 2002;Primera, Grupo G;3 de junio de 2002;Sapporo Dome, Sapporo;Italia;2;Ecuador;0;PT 2 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo C;4 de junio de 2002;Kwangju WC Stadium, Kwangju;China;0;Costa Rica;2;PT 0 a 0.;Visita
+Jap¢n y Corea del Sur 2002;Primera, Grupo D;4 de junio de 2002;Busan Asiad Main Stadium, Busan;Corea del Sur;2;Polonia;0;PT 1 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo H;4 de junio de 2002;Saitama Stadium 2002, Saitama;Jap¢n;2;BÇlgica;2;PT 0 a 0.;Empate
+Jap¢n y Corea del Sur 2002;Primera, Grupo D;5 de junio de 2002;Suwon WC Stadium, Suwon;Estados Unidos;3;Portugal;2;PT 3 a 1.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo E;5 de junio de 2002;Kashima Stadium, Ibaraki;Alemania;1;Irlanda;1;PT 1 a 0 .;Empate
+Jap¢n y Corea del Sur 2002;Primera, Grupo H;5 de junio de 2002;Kobe Wing Stadium, Kobe;Rusia;2;T£nez;0;PT 0 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo A;6 de junio de 2002;Taegu WC Stadium, Taegu;Dinamarca;1;Senegal;1;PT 1 a 0.;Empate
+Jap¢n y Corea del Sur 2002;Primera, Grupo A;6 de junio de 2002;Busan Asiad Main Stadium, Busan;Francia;0;Uruguay;0;PT 0 a 0.;Empate
+Jap¢n y Corea del Sur 2002;Primera, Grupo E;6 de junio de 2002;Saitama Stadium 2002, Saitama;Camer£n;1;Arabia Saudita;0;PT 0 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo B;7 de junio de 2002;Jeonju WC Stadium, Jeonju;Espa§a;3;Paraguay;1;PT 0 a 1.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo B;7 de junio de 2002;Taegu WC Stadium, Taegu;Sud†frica;1;Eslovenia;0;PT 1 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo F;7 de junio de 2002;Kobe Wing Stadium, Kobe;Suecia;2;Nigeria;1;PT 1 a 1.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo F;7 de junio de 2002;Sapporo Dome, Sapporo;Argentina;0;Inglaterra;1;PT 0 a 1.;Visita
+Jap¢n y Corea del Sur 2002;Primera, Grupo C;8 de junio de 2002;Jeju WC Stadium, Seogwipo;Brasil;4;China;0;PT 3 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo G;8 de junio de 2002;Kashima Stadium, Ibaraki;Italia;1;Croacia;2;PT 0 a 0.;Visita
+Jap¢n y Corea del Sur 2002;Primera, Grupo C;9 de junio de 2002;Inchon Munhak Stadium, Inchon;Costa Rica;1;Turqu°a;1;PT 0 a 0.;Empate
+Jap¢n y Corea del Sur 2002;Primera, Grupo G;9 de junio de 2002;Miyagi Stadium, Miyagi;MÇxico;2;Ecuador;1;PT 1 a 1.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo H;9 de junio de 2002;Estadio Internacional, Yokohama;Jap¢n;1;Rusia;0;PT 0 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo D;10 de junio de 2002;Taegu WC Stadium, Taegu;Corea del Sur;1;Estados Unidos;1;PT 0 a 1.;Empate
+Jap¢n y Corea del Sur 2002;Primera, Grupo D;10 de junio de 2002;Jeonju WC Stadium, Jeonju;Portugal;4;Polonia;0;PT 1 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo H;10 de junio de 2002;Oita Stadium Big Eye, Oita;T£nez;1;BÇlgica;1;PT 1 a 1.;Empate
+Jap¢n y Corea del Sur 2002;Primera, Grupo A;11 de junio de 2002;Inchon Munhak Stadium, Inchon;Dinamarca;2;Francia;0;PT 1 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo A;11 de junio de 2002;Suwon WC Stadium, Suwon;Senegal;3;Uruguay;3;PT 3 a 0.;Empate
+Jap¢n y Corea del Sur 2002;Primera, Grupo E;11 de junio de 2002;Shizuoka Stadium Ecopa, Shizuoka;Camer£n;0;Alemania;2;PT 0 a 0.;Visita
+Jap¢n y Corea del Sur 2002;Primera, Grupo E;11 de junio de 2002;Estadio Internacional, Yokohama;Arabia Saudita;0;Irlanda;3;PT 0 a 1.;Visita
+Jap¢n y Corea del Sur 2002;Primera, Grupo B;12 de junio de 2002;Taejon WC Stadium, Taejon;Sud†frica;2;Espa§a;3;PT 1 a 2.;Visita
+Jap¢n y Corea del Sur 2002;Primera, Grupo B;12 de junio de 2002;Jeju WC Stadium, Seogwipo;Eslovenia;1;Paraguay;3;PT 1 a 0.;Visita
+Jap¢n y Corea del Sur 2002;Primera, Grupo F;12 de junio de 2002;Miyagi Stadium, Miyagi;Suecia;1;Argentina;1;PT 0 a 0.;Empate
+Jap¢n y Corea del Sur 2002;Primera, Grupo F;12 de junio de 2002;Osaka Nagai Stadium, Osaka;Nigeria;0;Inglaterra;0;PT 0 a 0.;Empate
+Jap¢n y Corea del Sur 2002;Primera, Grupo C;13 de junio de 2002;Suwon WC Stadium, Suwon;Costa Rica;2;Brasil;5;PT 1 a 3.;Visita
+Jap¢n y Corea del Sur 2002;Primera, Grupo C;13 de junio de 2002;Se£l WC Stadium, Se£l;Turqu°a;3;China;0;PT 2 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo G;13 de junio de 2002;Estadio Internacional, Yokohama;Ecuador;1;Croacia;0;PT 0 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo G;13 de junio de 2002;Oita Stadium Big Eye, Oita;MÇxico;1;Italia;1;PT 1 a 0.;Empate
+Jap¢n y Corea del Sur 2002;Primera, Grupo D;14 de junio de 2002;Taejon WC Stadium, Taejon;Polonia;3;Estados Unidos;1;PT 2 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo D;14 de junio de 2002;Inchon Munhak Stadium, Inchon;Portugal;0;Corea del Sur;1;PT 0 a 0.;Visita
+Jap¢n y Corea del Sur 2002;Primera, Grupo H;14 de junio de 2002;Shizuoka Stadium Ecopa, Shizuoka;BÇlgica;3;Rusia;2;PT 1 a 0.;Local
+Jap¢n y Corea del Sur 2002;Primera, Grupo H;14 de junio de 2002;Osaka Nagai Stadium, Osaka;T£nez;0;Jap¢n;2;PT 0 a 0.;Visita
+Jap¢n y Corea del Sur 2002;Octavos de Final, partido 1;15 de junio de 2002;Jeju WC Stadium, Seogwipo;Alemania;1;Paraguay;0;PT 0 a 0.;Local
+Jap¢n y Corea del Sur 2002;Octavos de Final, partido 2;15 de junio de 2002;Niigata Stadium Big Swan, Niigata;Dinamarca;0;Inglaterra;3;PT 0 a 3.;Visita
+Jap¢n y Corea del Sur 2002;Octavos de Final, partido 3;16 de junio de 2002;Oita Stadium Big Eye, Oita;Suecia;1;Senegal;2;PT 1 a 1, ST 1 a 1. Suplementario.;Visita
+Jap¢n y Corea del Sur 2002;Octavos de Final, partido 4;16 de junio de 2002;Suwon WC Stadium, Suwon;Espa§a;4;Irlanda;3;PT 1 a 0, ST 1 a 1, Suplementario 1 a 1. Penales (3 a 2).;Local
+Jap¢n y Corea del Sur 2002;Octavos de Final, partido 5;17 de junio de 2002;Jeonju WC Stadium, Jeonju;MÇxico;0;Estados Unidos;2;PT 0 a 1.;Visita
+Jap¢n y Corea del Sur 2002;Octavos de Final, partido 6;17 de junio de 2002;Kobe Wing Stadium, Kobe;Brasil;2;BÇlgica;0;PT 0 a 0.;Local
+Jap¢n y Corea del Sur 2002;Octavos de Final, partido 7;18 de junio de 2002;Miyagi Stadium, Miyagi;Jap¢n;0;Turqu°a;1;PT 0 a 1.;Visita
+Jap¢n y Corea del Sur 2002;Octavos de Final, partido 8;18 de junio de 2002;Taejon WC Stadium, Taejon;Corea del Sur;2;Italia;1;PT 0 a 0, ST 1 a 1. Suplementario.;Local
+Jap¢n y Corea del Sur 2002;Cuartos de Final, partido 1;21 de junio de 2002;Shizuoka Stadium Ecopa, Shizuoka;Inglaterra;1;Brasil;2;PT 1 a 1.;Visita
+Jap¢n y Corea del Sur 2002;Cuartos de Final, partido 2;21 de junio de 2002;Munsu Football Stadium, Ulsan;Alemania;1;Estados Unidos;0;PT 1 a 0.;Local
+Jap¢n y Corea del Sur 2002;Cuartos de Final, partido 3;22 de junio de 2002;Kwangju WC Stadium, Kwangju;Espa§a;3;Corea del Sur;5;PT 0 a 0, ST 0 a 0, Suplementario 0 a 0. Penales (3 a 5).;Visita
+Jap¢n y Corea del Sur 2002;Cuartos de Final, partido 4;22 de junio de 2002;Osaka Nagai Stadium, Osaka;Senegal;0;Turqu°a;1;PT 0 a 0, ST 0 a 0. Suplementario.;Visita
+Jap¢n y Corea del Sur 2002;Semifinal 1;25 de junio de 2002;Se£l WC Stadium, Se£l;Alemania;1;Corea del Sur;0;PT 0 a 0.;Local
+Jap¢n y Corea del Sur 2002;Semifinal 2;26 de junio de 2002;Saitama Stadium 2002, Saitama;Brasil;1;Turqu°a;0;PT 0 a 0.;Local
+Jap¢n y Corea del Sur 2002;Tercer y Cuarto Puesto;29 de junio de 2002;Taegu WC Stadium, Taegu;Corea del Sur;2;Turqu°a;3;PT 1 a 3.;Visita
+Jap¢n y Corea del Sur 2002;Final;30 de junio de 2002;Estadio Internacional, Yokohama;Alemania;0;Brasil;2;PT 0 a 0.;Visita
+Alemania, 2006;Primera, Grupo A;9 de junio de 2006;Estadio de la Copa del Mundo, MÅnich;Alemania;4;Costa Rica;2;PT 2 a 1.;Local
+Alemania, 2006;Primera, Grupo A;9 de junio de 2006;Estadio de la Copa del Mundo, Gelsenkirchen;Polonia;0;Ecuador;2;PT 0 a 1.;Visita
+Alemania, 2006;Primera, Grupo B;10 de junio de 2006;Estadio de la Copa del Mundo, Frankfurt;Inglaterra;1;Paraguay;0;PT 1 a 0.;Local
+Alemania, 2006;Primera, Grupo B;10 de junio de 2006;Estadio de la Copa del Mundo, Dortmund;Trinidad y Tobago;0;Suecia;0;PT 0 a 0.;Empate
+Alemania, 2006;Primera, Grupo C;10 de junio de 2006;Estadio de la Copa del Mundo, Hamburgo;Argentina;2;Costa de Marfil;1;PT 2 a 0.;Local
+Alemania, 2006;Primera, Grupo C;11 de junio de 2006;Zentralstadion, Leipzig;Serbia y Montenegro;0;Pa°ses Bajos ;1;PT 0 a 1.;Visita
+Alemania, 2006;Primera, Grupo D;11 de junio de 2006;Franken Stadion, NÅremberg;MÇxico;3;Ir†n;1;PT 1 a 1.;Local
+Alemania, 2006;Primera, Grupo D;11 de junio de 2006;Estadio de la Copa del Mundo, Colonia;Angola;0;Portugal;1;PT 0 a 1.;Visita
+Alemania, 2006;Primera, Grupo E;12 de junio de 2006;Estadio de la Copa del Mundo, Hanover;Italia;2;Ghana;0;PT 1 a 0.;Local
+Alemania, 2006;Primera, Grupo E;12 de junio de 2006;Estadio de la Copa del Mundo, Gelsenkirchen;Estados Unidos;0;Rep£blica Checa;3;PT 0 a 2.;Visita
+Alemania, 2006;Primera, Grupo F;12 de junio de 2006;Fritz-Walter Stadion, Kaiserlautern;Australia;3;Jap¢n;1;PT 0 a 1.;Local
+Alemania, 2006;Primera, Grupo F;13 de junio de 2006;Olympiastadion, Berl°n;Brasil;1;Croacia;0;PT 1 a 0.;Local
+Alemania, 2006;Primera, Grupo G;13 de junio de 2006;Estadio de la Copa del Mundo, Frankfurt;Corea del Sur;2;Togo;1;PT 0 a 1.;Local
+Alemania, 2006;Primera, Grupo G;13 de junio de 2006;Gottlieb Daimler Stadion, Stuttgart;Francia;0;Suiza;0;PT 0 a 0.;Empate
+Alemania, 2006;Primera, Grupo A;14 de junio de 2006;Estadio de la Copa del Mundo, Dortmund;Alemania;1;Polonia;0;PT 0 a 0.;Local
+Alemania, 2006;Primera, Grupo H;14 de junio de 2006;Zentralstadion, Leipzig;Espa§a;4;Ucrania;0;PT 2 a 0.;Local
+Alemania, 2006;Primera, Grupo H;14 de junio de 2006;Estadio de la Copa del Mundo, MÅnich;T£nez;2;Arabia Saudita;2;PT 1 a 0.;Empate
+Alemania, 2006;Primera, Grupo A;15 de junio de 2006;Estadio de la Copa del Mundo, Hamburgo;Ecuador;3;Costa Rica;0;PT 1 a 0.;Local
+Alemania, 2006;Primera, Grupo B;15 de junio de 2006;Franken Stadion, NÅremberg;Inglaterra;2;Trinidad y Tobago;0;PT 0 a 0.;Local
+Alemania, 2006;Primera, Grupo B;15 de junio de 2006;Olympiastadion, Berl°n;Suecia;1;Paraguay;0;PT 0 a 0.;Local
+Alemania, 2006;Primera, Grupo C;16 de junio de 2006;Estadio de la Copa del Mundo, Gelsenkirchen;Argentina;6;Serbia y Montenegro;0;PT 3 a 0.;Local
+Alemania, 2006;Primera, Grupo C;16 de junio de 2006;Gottlieb Daimler Stadion, Stuttgart;Pa°ses Bajos;2;Costa de Marfil;1;PT 2 a 1.;Local
+Alemania, 2006;Primera, Grupo D;16 de junio de 2006;Estadio de la Copa del Mundo, Hanover;MÇxico;0;Angola;0;PT 0 a 0.;Empate
+Alemania, 2006;Primera, Grupo D;17 de junio de 2006;Estadio de la Copa del Mundo, Frankfurt;Portugal;2;Ir†n;0;PT 0 a 0.;Local
+Alemania, 2006;Primera, Grupo E;17 de junio de 2006;Fritz-Walter Stadion, Kaiserlautern;Italia;1;Estados Unidos;1;PT 1 a 1.;Empate
+Alemania, 2006;Primera, Grupo E;17 de junio de 2006;Estadio de la Copa del Mundo, Colonia;Rep£blica Checa;0;Ghana;2;PT 0 a 1.;Visita
+Alemania, 2006;Primera, Grupo F;18 de junio de 2006;Estadio de la Copa del Mundo, MÅnich;Brasil;2;Australia;0;PT 0 a 0.;Local
+Alemania, 2006;Primera, Grupo F;18 de junio de 2006;Franken Stadion, NÅremberg;Jap¢n;0;Croacia;0;PT 0 a 0.;Empate
+Alemania, 2006;Primera, Grupo G;18 de junio de 2006;Zentralstadion, Leipzig;Francia;1;Corea del Sur;1;PT 1 a 0.;Empate
+Alemania, 2006;Primera, Grupo G;19 de junio de 2006;Estadio de la Copa del Mundo, Dortmund;Togo;0;Suiza;2;PT 0 a 1.;Visita
+Alemania, 2006;Primera, Grupo H;19 de junio de 2006;Gottlieb Daimler Stadion, Stuttgart;Espa§a;3;T£nez;1;PT 0 a 1.;Local
+Alemania, 2006;Primera, Grupo H;19 de junio de 2006;Estadio de la Copa del Mundo, Hamburgo;Arabia Saudita;0;Ucrania;4;PT 0 a 2.;Visita
+Alemania, 2006;Primera, Grupo A;20 de junio de 2006;Olympiastadion, Berl°n;Ecuador;0;Alemania;3;PT 0 a 2.;Visita
+Alemania, 2006;Primera, Grupo A;20 de junio de 2006;Estadio de la Copa del Mundo, Hanover;Costa Rica;1;Polonia;2;PT 1 a 1.;Visita
+Alemania, 2006;Primera, Grupo B;20 de junio de 2006;Estadio de la Copa del Mundo, Colonia;Suecia;2;Inglaterra;2;PT 0 a 1.;Empate
+Alemania, 2006;Primera, Grupo B;20 de junio de 2006;Fritz-Walter Stadion, Kaiserlautern;Paraguay;2;Trinidad y Tobago;0;PT 1 a 0.;Local
+Alemania, 2006;Primera, Grupo C;21 de junio de 2006;Estadio de la Copa del Mundo, Frankfurt;Pa°ses Bajos;0;Argentina;0;PT 0 a 0.;Empate
+Alemania, 2006;Primera, Grupo C;21 de junio de 2006;Estadio de la Copa del Mundo, MÅnich;Costa de Marfil;3;Serbia y Montenegro;2;PT 1 a 2.;Local
+Alemania, 2006;Primera, Grupo D;21 de junio de 2006;Estadio de la Copa del Mundo, Gelsenkirchen;Portugal;2;MÇxico;1;PT 2 a 1.;Local
+Alemania, 2006;Primera, Grupo D;21 de junio de 2006;Zentralstadion, Leipzig;Ir†n;1;Angola;1;PT 0 a 0.;Empate
+Alemania, 2006;Primera, Grupo E;22 de junio de 2006;Estadio de la Copa del Mundo, Hamburgo;Rep£blica Checa;0;Italia;2;PT 0 a 1.;Visita
+Alemania, 2006;Primera, Grupo E;22 de junio de 2006;Franken Stadion, NÅremberg;Ghana;2;Estados Unidos;1;PT 2 a 1.;Local
+Alemania, 2006;Primera, Grupo F;22 de junio de 2006;Gottlieb Daimler Stadion, Stuttgart;Croacia;2;Australia;2;PT 1 a 1.;Empate
+Alemania, 2006;Primera, Grupo F;22 de junio de 2006;Estadio de la Copa del Mundo, Dortmund;Jap¢n;1;Brasil;4;PT 1 a 1.;Visita
+Alemania, 2006;Primera, Grupo G;23 de junio de 2006;Estadio de la Copa del Mundo, Colonia;Togo;0;Francia;2;PT 0 a 0.;Visita
+Alemania, 2006;Primera, Grupo G;23 de junio de 2006;Estadio de la Copa del Mundo, Hanover;Suiza;2;Corea del Sur;0;PT 1 a 0.;Local
+Alemania, 2006;Primera, Grupo H;23 de junio de 2006;Fritz-Walter Stadion, Kaiserlautern;Arabia Saudita;0;Espa§a;1;PT 0 a 1.;Visita
+Alemania, 2006;Primera, Grupo H;23 de junio de 2006;Olympiastadion, Berl°n;Ucrania;1;T£nez;0;PT 0 a 0.;Local
+Alemania, 2006;Octavos de Final, partido 1;24 de junio de 2006;Estadio de la Copa del Mundo, MÅnich;Alemania;2;Suecia;0;PT 2 a 0.;Local
+Alemania, 2006;Octavos de Final, partido 2;24 de junio de 2006;Zentralstadion, Leipzig;Argentina;2;MÇxico;1;PT 1 a 1, ST 1 a 1. Suplementario 2 a 1.;Local
+Alemania, 2006;Octavos de Final, partido 3;25 de junio de 2006;Gottlieb Daimler Stadion, Stuttgart;Inglaterra;1;Ecuador;0;PT 0 a 0.;Local
+Alemania, 2006;Octavos de Final, partido 4;25 de junio de 2006;Franken Stadion, NÅremberg;Portugal;1;Pa°ses Bajos ;0;PT 1 a 0.;Local
+Alemania, 2006;Octavos de Final, partido 5;26 de junio de 2006;Fritz-Walter Stadion, Kaiserlautern;Italia;1;Australia;0;PT 0 a 0.;Local
+Alemania, 2006;Octavos de Final, partido 6;26 de junio de 2006;Estadio de la Copa del Mundo, Colonia;Suiza;0;Ucrania;3;PT 0 a 0, ST 0 a 0, Suplementario 0 a 0. Penales (0 a 3).;Visita
+Alemania, 2006;Octavos de Final, partido 7;27 de junio de 2006;Estadio de la Copa del Mundo, Dortmund;Brasil;3;Ghana;0;PT 0 a 0.;Local
+Alemania, 2006;Octavos de Final, partido 8;27 de junio de 2006;Estadio de la Copa del Mundo, Hanover;Espa§a;1;Francia;3;PT 1 a 1.;Visita
+Alemania, 2006;Cuartos de Final, partido 1;30 de junio de 2006;Olympiastadion, Berl°n;Alemania;5;Argentina;3;PT 0 a 0, ST 1 a 1, Suplementario 1 a 1. Penales (4 a 2).;Local
+Alemania, 2006;Cuartos de Final, partido 2;30 de junio de 2006;Estadio de la Copa del Mundo, Hamburgo;Italia;3;Ucrania;0;PT 1 a 0.;Local
+Alemania, 2006;Cuartos de Final, partido 3;1 de julio de 2006;Estadio de la Copa del Mundo, Gelsenkirchen;Inglaterra;1;Portugal;3;PT 0 a 0, ST 0 a 0, Suplementario 0 a 0. Penales (1 a 3).;Visita
+Alemania, 2006;Cuartos de Final, partido 4;1 de julio de 2006;Estadio de la Copa del Mundo, Frankfurt;Brasil;0;Francia;1;PT 0 a 0.;Visita
+Alemania, 2006;Semifinal 1;4 de julio de 2006;Estadio de la Copa del Mundo, Dortmund;Alemania;0;Italia;2;PT 0 a 0, ST, 0 a 0. Suplementario.;Visita
+Alemania, 2006;Semifinal 2;5 de julio de 2006;Estadio de la Copa del Mundo, MÅnich;Portugal;0;Francia;1;PT 0 a 1.;Visita
+Alemania, 2006;Tercer y Cuarto Puesto;8 de julio de 2006;Gottlieb Daimler Stadion, Stuttgart;Alemania;3;Portugal;1;PT 0 a 0.;Local
+Alemania, 2006;Final;9 de julio de 2006;Olympiastadion, Berl°n;Italia;6;Francia;4;PT 1 a 1, ST 1 a 1. Suplementario 1 a 1. Penales (5 a 3).;Local
+Sud†frica, 2010;Primera, Grupo A;11 de junio de 2010;Soccer City Stadium, Johannesburgo;Sud†frica;1;MÇxico;1;PT 0 a 0.;Empate
+Sud†frica, 2010;Primera, Grupo A;11 de junio de 2010;Green Point Stadium, Ciudad del Cabo;Uruguay;0;Francia;0;PT 0 a 0.;Empate
+Sud†frica, 2010;Primera, Grupo B;12 de junio de 2010;Nelson Mandela Bay Stadium, Port Elizabeth;Corea del Sur;2;Grecia;0;PT 1 a 0.;Local
+Sud†frica, 2010;Primera, Grupo B;12 de junio de 2010;Ellis Park, Johannesburgo;Argentina;1;Nigeria;0;PT 1 a 0.;Local
+Sud†frica, 2010;Primera, Grupo C;12 de junio de 2010;Royal Bakofeng Stadium, Rustenburg;Inglaterra;1;Estados Unidos;1;PT 1 a 1.;Empate
+Sud†frica, 2010;Primera, Grupo C;13 de junio de 2010;Peter Mokaba Stadium, Polokwane;Argelia;0;Eslovenia;1;PT 0 a 0.;Visita
+Sud†frica, 2010;Primera, Grupo D;13 de junio de 2010;Loftus Verfeld Stadium, Pretoria;Serbia;0;Ghana;1;PT 0 a 0.;Visita
+Sud†frica, 2010;Primera, Grupo D;13 de junio de 2010;Moses Mabhida Stadium, Durban;Alemania;4;Australia;0;PT 2 a 0.;Local
+Sud†frica, 2010;Primera, Grupo E;14 de junio de 2010;Soccer City Stadium, Johannesburgo;Pa°ses Bajos;2;Dinamarca;0;PT 1 a 0.;Local
+Sud†frica, 2010;Primera, Grupo E;14 de junio de 2010;Free State Stadium, Bloemfontein;Jap¢n;1;Camer£n;0;PT 1 a 0.;Local
+Sud†frica, 2010;Primera, Grupo F;14 de junio de 2010;Green Point Stadium, Ciudad del Cabo;Italia;1;Paraguay;1;PT 0 a 1.;Empate
+Sud†frica, 2010;Primera, Grupo F;15 de junio de 2010;Royal Bakofeng Stadium, Rustenburg;Nueva Zelandia;1;Eslovaquia;1;PT 0 a 0.;Empate
+Sud†frica, 2010;Primera, Grupo G;15 de junio de 2010;Nelson Mandela Bay Stadium, Port Elizabeth;Costa de Marfil;0;Portugal;0;PT 0 a 0.;Empate
+Sud†frica, 2010;Primera, Grupo G;15 de junio de 2010;Ellis Park, Johannesburgo;Brasil;2;Corea del Norte;1;PT 0 a 0.;Local
+Sud†frica, 2010;Primera, Grupo H;16 de junio de 2010;Mbombela Stadium, Nelspruit;Honduras;0;Chile;1;PT 0 a 1.;Visita
+Sud†frica, 2010;Primera, Grupo H;16 de junio de 2010;Moses Mabhida Stadium, Durban;Espa§a;0;Suiza;1;PT 0 a 0.;Visita
+Sud†frica, 2010;Primera, Grupo A;16 de junio de 2010;Loftus Verfeld Stadium, Pretoria;Sud†frica;0;Uruguay;3;PT 0 a 1.;Visita
+Sud†frica, 2010;Primera, Grupo B;17 de junio de 2010;Soccer City Stadium, Johannesburgo;Argentina;4;Corea del Sur;1;PT 2 a 1.;Local
+Sud†frica, 2010;Primera, Grupo B;17 de junio de 2010;Free State Stadium, Bloemfontein;Grecia;2;Nigeria;1;PT 1 a 1.;Local
+Sud†frica, 2010;Primera, Grupo A;17 de junio de 2010;Peter Mokaba Stadium, Polokwane;Francia;0;MÇxico;2;PT 0 a 0.;Visita
+Sud†frica, 2010;Primera, Grupo D;18 de junio de 2010;Nelson Mandela Bay Stadium, Port Elizabeth;Alemania;0;Serbia;1;PT 0 a 1.;Visita
+Sud†frica, 2010;Primera, Grupo C;18 de junio de 2010;Ellis Park, Johannesburgo;Eslovenia;2;Estados Unidos;2;PT 2 a 0.;Empate
+Sud†frica, 2010;Primera, Grupo C;18 de junio de 2010;Green Point Stadium, Ciudad del Cabo;Inglaterra;0;Argelia;0;PT 0 a 0.;Empate
+Sud†frica, 2010;Primera, Grupo E;19 de junio de 2010;Moses Mabhida Stadium, Durban;Pa°ses Bajos;1;Jap¢n;0;PT 0 a 0.;Local
+Sud†frica, 2010;Primera, Grupo D;19 de junio de 2010;Royal Bakofeng Stadium, Rustenburg;Ghana;1;Australia;1;PT 1 a 1.;Empate
+Sud†frica, 2010;Primera, Grupo E;19 de junio de 2010;Loftus Verfeld Stadium, Pretoria;Camer£n;1;Dinamarca;2;PT 1 a 1.;Visita
+Sud†frica, 2010;Primera, Grupo F;20 de junio de 2010;Free State Stadium, Bloemfontein;Eslovaquia;0;Paraguay;2;PT 0 a 1.;Visita
+Sud†frica, 2010;Primera, Grupo F;20 de junio de 2010;Mbombela Stadium, Nelspruit;Italia;1;Nueva Zelandia;1;PT 1 a 1.;Empate
+Sud†frica, 2010;Primera, Grupo G;20 de junio de 2010;Soccer City Stadium, Johannesburgo;Brasil;3;Costa de Marfil;1;PT 1 a 0.;Local
+Sud†frica, 2010;Primera, Grupo G;21 de junio de 2010;Green Point Stadium, Ciudad del Cabo;Portugal;7;Corea del Norte;0;PT 1 a 0.;Local
+Sud†frica, 2010;Primera, Grupo H;21 de junio de 2010;Nelson Mandela Bay Stadium, Port Elizabeth;Chile;1;Suiza;0;PT 0 a 0.;Local
+Sud†frica, 2010;Primera, Grupo H;21 de junio de 2010;Ellis Park, Johannesburgo;Espa§a;2;Honduras;0;PT 1 a 0.;Local
+Sud†frica, 2010;Primera, Grupo A;22 de junio de 2010;Royal Bakofeng Stadium, Rustenburg;MÇxico;0;Uruguay;1;PT 0 a 1.;Visita
+Sud†frica, 2010;Primera, Grupo A;22 de junio de 2010;Free State Stadium, Bloemfontein;Francia;1;Sud†frica;2;PT 0 a 2.;Visita
+Sud†frica, 2010;Primera, Grupo B;22 de junio de 2010;Moses Mabhida Stadium, Durban;Nigeria;2;Corea del Sur;2;PT 1 a 1.;Empate
+Sud†frica, 2010;Primera, Grupo B;22 de junio de 2010;Peter Mokaba Stadium, Polokwane;Grecia;0;Argentina;2;PT 0 a 0.;Visita
+Sud†frica, 2010;Primera, Grupo C;23 de junio de 2010;Nelson Mandela Bay Stadium, Port Elizabeth;Eslovenia;0;Inglaterra;1;PT 0 a 1.;Visita
+Sud†frica, 2010;Primera, Grupo C;23 de junio de 2010;Loftus Verfeld Stadium, Pretoria;Estados Unidos;1;Argelia;0;PT 0 a 0.;Local
+Sud†frica, 2010;Primera, Grupo D;23 de junio de 2010;Soccer City Stadium, Johannesburgo;Ghana;0;Alemania;1;PT 0 a 0.;Visita
+Sud†frica, 2010;Primera, Grupo D;23 de junio de 2010;Mbombela Stadium, Nelspruit;Australia;2;Serbia;1;PT 0 a 0.;Local
+Sud†frica, 2010;Primera, Grupo F;24 de junio de 2010;Ellis Park, Johannesburgo;Eslovaquia;3;Italia;2;PT 1 a 0.;Local
+Sud†frica, 2010;Primera, Grupo F;24 de junio de 2010;Peter Mokaba Stadium, Polokwane;Paraguay;0;Nueva Zelandia;0;PT 0 a 0.;Empate
+Sud†frica, 2010;Primera, Grupo E;24 de junio de 2010;Royal Bakofeng Stadium, Rustenburg;Dinamarca;1;Jap¢n;3;PT 0 a 2.;Visita
+Sud†frica, 2010;Primera, Grupo E;24 de junio de 2010;Green Point Stadium, Ciudad del Cabo;Camer£n;1;Pa°ses Bajos ;2;PT 0 a 1.;Visita
+Sud†frica, 2010;Primera, Grupo G;25 de junio de 2010;Moses Mabhida Stadium, Durban;Portugal;0;Brasil;0;PT 0 a 0.;Empate
+Sud†frica, 2010;Primera, Grupo G;25 de junio de 2010;Mbombela Stadium, Nelspruit;Corea del Norte;0;Costa de Marfil;3;PT 0 a 2.;Visita
+Sud†frica, 2010;Primera, Grupo H;25 de junio de 2010;Free State Stadium, Bloemfontein;Suiza;0;Honduras;0;PT 0 a 0.;Empate
+Sud†frica, 2010;Primera, Grupo H;25 de junio de 2010;Loftus Verfeld Stadium, Pretoria;Chile;1;Espa§a;2;PT 0 a 2.;Visita
+Sud†frica, 2010;Octavos de Final, partido 1;26 de junio de 2010;Nelson Mandela Bay Stadium, Port Elizabeth;Uruguay;2;Corea del Sur;1;PT 1 a 0.;Local
+Sud†frica, 2010;Octavos de Final, partido 2;26 de junio de 2010;Royal Bakofeng Stadium, Rustenburg;Estados Unidos;1;Ghana;2;PT 0 a 1. ST 1 a 1. Suplementario 1 a 2.;Visita
+Sud†frica, 2010;Octavos de Final, partido 3;27 de junio de 2010;Free State Stadium, Bloemfontein;Alemania;4;Inglaterra;1;PT 2 a 1.;Local
+Sud†frica, 2010;Octavos de Final, partido 4;27 de junio de 2010;Soccer City Stadium, Johannesburgo;Argentina;3;MÇxico;1;PT 2 a 0.;Local
+Sud†frica, 2010;Octavos de Final, partido 5;28 de junio de 2010;Moses Mabhida Stadium, Durban;Pa°ses Bajos;2;Eslovaquia;1;PT 1 a 0.;Local
+Sud†frica, 2010;Octavos de Final, partido 6;28 de junio de 2010;Ellis Park, Johannesburgo;Brasil;3;Chile;0;PT 2 a 0.;Local
+Sud†frica, 2010;Octavos de Final, partido 7;29 de junio de 2010;Loftus Verfeld Stadium, Pretoria;Paraguay;5;Jap¢n;3;PT 0 a 0, ST 0 a 0, Suplementario 0 a 0. Penales (5 a 3).;Local
+Sud†frica, 2010;Octavos de Final, partido 8;29 de junio de 2010;Green Point Stadium, Ciudad del Cabo;Espa§a;1;Portugal;0;PT 0 a 0. ST 1 a 0.;Local
+Sud†frica, 2010;Cuartos de Final, partido 1;2 de julio de 2010;Nelson Mandela Bay Stadium, Port Elizabeth;Pa°ses Bajos;2;Brasil;1;PT 0 a 1.;Local
+Sud†frica, 2010;Cuartos de Final, partido 2;2 de julio de 2010;Soccer City Stadium, Johannesburgo;Uruguay;5;Ghana;3;PT 0 a 1. ST 1 a 1. Suplementario 1 a 1. Penales (4 a 2).;Local
+Sud†frica, 2010;Cuartos de Final, partido 3;3 de julio de 2010;Green Point Stadium, Ciudad del Cabo;Argentina;0;Alemania;4;PT 0 a 1.;Visita
+Sud†frica, 2010;Cuartos de Final, partido 4;3 de julio de 2010;Ellis Park, Johannesburgo;Paraguay;0;Espa§a;1;PT 0 a 0.;Visita
+Sud†frica, 2010;Semifinal 1;6 de julio de 2010;Green Point Stadium, Ciudad del Cabo;Uruguay;2;Pa°ses Bajos ;3;PT 1 a 1.;Visita
+Sud†frica, 2010;Semifinal 2;7 de julio de 2010;Moses Mabhida Stadium, Durban;Alemania;0;Espa§a;1;PT 0 a 0.;Visita
+Sud†frica, 2010;Tercer y Cuarto Puesto;10 de julio de 2010;Nelson Mandela Bay Stadium, Port Elizabeth;Uruguay;2;Alemania;3;PT 1 a 1.;Visita
+Sud†frica, 2010;Final;11 de julio de 2010;Soccer City Stadium, Johannesburgo;Pa°ses Bajos;0;Espa§a;1;PT 0 a 0. ST 0 a 0. Suplementario 0 a 1. ;Visita
+Brasil, 2014;Primera, Grupo A;12 de junio de 2014;Arena / San Pablo;Brasil;3;Croacia;1;PT 1 a 1;Local
+Brasil, 2014;Primera, Grupo A;13 de junio de 2014;Estadio das Dunas / Natal;MÇxico;1;Camer£n;0;PT 0 a 0;Local
+Brasil, 2014;Primera, Grupo B;13 de junio de 2014;Arena Fonte Nova / Fortaleza;Espa§a;1;Pa°ses Bajos;5;PT 1 a 1;Visita
+Brasil, 2014;Primera, Grupo B;13 de junio de 2014;Arena Pantanal / Cuiab†;Chile;3;Australia;1;PT 2 a 1;Local
+Brasil, 2014;Primera, Grupo C;14 de junio de 2014;Mineirao / Belo Horizonte;Colombia;3;Grecia;0;PT 1 a 0;Local
+Brasil, 2014;Primera, Grupo D;14 de junio de 2014;Castelao / Fortaleza;Uruguay;1;Costa Rica;3;PT 1 a 0;Visita
+Brasil, 2014;Primera, Grupo D;14 de junio de 2014;Arena Amazìnia / Manaos;Inglaterra;1;Italia;2;PT 1 a 1;Visita
+Brasil, 2014;Primera, Grupo C;14 de junio de 2014;Arena Pernambuco / Recife;Costa de Marfil;2;Jap¢n;1;PT 0 a 1;Local
+Brasil, 2014;Primera, Grupo E;15 de junio de 2014;Nacional / Brasilia;Suiza;2;Ecuador;1;PT 0 a 1;Local
+Brasil, 2014;Primera, Grupo E;15 de junio de 2014;Beira-Rio / Porto Alegre;Francia;3;Honduras;0;PT 1 a 0;Local
+Brasil, 2014;Primera, Grupo F;15 de junio de 2014;Maracan† / R°o de Janeiro;Argentina;2;Bosnia-Herzegovina;1;PT 1 a 0;Local
+Brasil, 2014;Primera, Grupo G;16 de junio de 2014;Arena Fonte Nova /Salvador;Alemania;4;Portugal;0;PT 3 a 0;Local
+Brasil, 2014;Primera, Grupo F;16 de junio de 2014;Arena da Baixada / Curitiba;Ir†n;0;Nigeria;0;PT 0 a 0;Empate
+Brasil, 2014;Primera, Grupo G;16 de junio de 2014;Estadio das Dunas / Natal;Ghana;1;Estados Unidos;2;PT 0 a 1;Visita
+Brasil, 2014;Primera, Grupo H;17 de junio de 2014;Mineirao / Belo Horizonte;BÇlgica;2;Argelia;1;PT 0 a 1;Local
+Brasil, 2014;Primera, Grupo A;17 de junio de 2014;Castelao / Fortaleza;Brasil;0;MÇxico;0;PT 0 a 0;Empate
+Brasil, 2014;Primera, Grupo H;17 de junio de 2014;Arena Pantanal / Cuiab†;Rusia;1;Corea del Sur;1;PT 0 a 0;Empate
+Brasil, 2014;Primera, Grupo B;18 de junio de 2014;Beira-Rio / Porto Alegre;Australia;2;Pa°ses Bajos;3;PT 1 a 1;Visita
+Brasil, 2014;Primera, Grupo B;18 de junio de 2014;Maracan† / R°o de Janeiro;Espa§a;0;Chile;2;PT 0 a 2;Visita
+Brasil, 2014;Primera, Grupo A;18 de junio de 2014;Arena Amazìnia / Manaos;Camer£n;0;Croacia;4;PT 0 a 1;Visita
+Brasil, 2014;Primera, Grupo C;19 de junio de 2014;Nacional / Brasilia;Colombia;2;Costa de Marfil;1;PT 0 a 0;Local
+Brasil, 2014;Primera, Grupo D;19 de junio de 2014;Arena / San Pablo;Uruguay;2;Inglaterra;1;PT 1 a 0;Local
+Brasil, 2014;Primera, Grupo C;19 de junio de 2014;Estadio das Dunas / Natal;Jap¢n;0;Grecia;0;PT 0 a 0;Empate
+Brasil, 2014;Primera, Grupo D;20 de junio de 2014;Arena Pernambuco / Recife;Italia;0;Costa Rica;1;PT 0 a 1;Visita
+Brasil, 2014;Primera, Grupo E;20 de junio de 2014;Arena Fonte Nova / Salvador;Suiza;2;Francia;5;PT 0 a 3;Visita
+Brasil, 2014;Primera, Grupo E;20 de junio de 2014;Arena da Baixada / Curitiba;Honduras;1;Ecuador;2;PT 1 a 1;Visita
+Brasil, 2014;Primera, Grupo F;21 de junio de 2014;Mineirao / Belo Horizonte;Argentina;1;Ir†n;0;PT 0 a 0;Local
+Brasil, 2014;Primera, Grupo G;21 de junio de 2014;Arena Fonte Nova / Fortaleza;Alemania;2;Ghana;2;PT 0 a 0;Empate
+Brasil, 2014;Primera, Grupo F;21 de junio de 2014;Arena Pantanal / Cuiab†;Nigeria;1;Bosnia-Herzegovina;0;PT 1 a 0;Local
+Brasil, 2014;Primera, Grupo H;22 de junio de 2014;Maracan† / R°o de Janeiro;BÇlgica;1;Rusia;0;PT 0 a 0;Local
+Brasil, 2014;Primera, Grupo H;22 de junio de 2014;Beira-Rio / Porto Alegre;Corea del Sur;2;Argelia;4;PT 0 a 3;Visita
+Brasil, 2014;Primera, Grupo G;22 de junio de 2014;Arena Amazìnia / Manaos;Estados Unidos;2;Portugal;2;PT 0 a 1;Empate
+Brasil, 2014;Primera, Grupo B;23 de junio de 2014;Arena da Baixada / Curitiba;Australia;0;Espa§a;3;PT 0 a 1;Visita
+Brasil, 2014;Primera, Grupo B;23 de junio de 2014;Arena / San Pablo;Pa°ses Bajos;2;Chile;0;PT 0 a 0;Local
+Brasil, 2014;Primera, Grupo A;23 de junio de 2014;Nacional / Brasilia;Camer£n;1;Brasil;4;PT 1 a 2;Visita
+Brasil, 2014;Primera, Grupo A;23 de junio de 2014;Arena Pernambuco / Recife;Croacia;1;MÇxico;3;PT 0 a 0;Visita
+Brasil, 2014;Primera, Grupo D;24 de junio de 2014;Estadio das Dunas / Natal;Italia;0;Uruguay;1;PT 0 a 0;Visita
+Brasil, 2014;Primera, Grupo D;24 de junio de 2014;Mineirao / Belo Horizonte;Costa Rica;0;Inglaterra;0;PT 0 a 0;Empate
+Brasil, 2014;Primera, Grupo C;24 de junio de 2014;Arena Pantanal / Cuiab†;Jap¢n;1;Colombia;4;PT 1 a 1;Visita
+Brasil, 2014;Primera, Grupo C;24 de junio de 2014;Arena Fonte Nova / Fortaleza;Grecia;2;Costa de Marfil;1;PT 1 a 0;Local
+Brasil, 2014;Primera, Grupo F;25 de junio de 2014;Beira-Rio / Porto Alegre;Nigeria;2;Argentina;3;PT 1 a 2;Visita
+Brasil, 2014;Primera, Grupo F;25 de junio de 2014;Arena Fonte Nova / Salvador;Bosnia-Herzegovina;3;Ir†n;1;PT 1 a 0;Local
+Brasil, 2014;Primera, Grupo E;25 de junio de 2014;Arena Amazìnia / Manaos;Honduras;0;Suiza;3;PT 0 a 2;Visita
+Brasil, 2014;Primera, Grupo E;25 de junio de 2014;Maracan† / R°o de Janeiro;Ecuador;0;Francia;0;PT 0 a 0;Empate
+Brasil, 2014;Primera, Grupo G;26 de junio de 2014;Arena Pernambuco / Recife;Estados Unidos;0;Alemania;1;PT 0 a 0;Visita
+Brasil, 2014;Primera, Grupo G;26 de junio de 2014;Nacional / Brasilia;Portugal;2;Ghana;1;PT 1 a 0;Local
+Brasil, 2014;Primera, Grupo H;26 de junio de 2014;Arena / San Pablo;Corea del Sur;0;BÇlgica;1;PT 0 a 0;Visita
+Brasil, 2014;Primera, Grupo H;26 de junio de 2014;Arena da Baixada / Curitiba;Argelia;1;Rusia;1;PT 0 a 1;Empate
+Brasil, 2014;Octavos de Final, partido 1;28 de junio de 2014;Mineirao / Belo Horizonte;Brasil;4;Chile;3;PT 1 a 1. ST 1 a 1. Suplementario 1 a 1. Penales (3 a 2).;Local
+Brasil, 2014;Octavos de Final, partido 2;28 de junio de 2014;Maracan† / R°o de Janeiro;Colombia;2;Uruguay;0;PT 1 a 0.;Local
+Brasil, 2014;Octavos de Final, partido 3;29 de junio de 2014;Arena Fonte Nova / Fortaleza;Pa°ses Bajos;2;MÇxico;1;PT 0 a 0;Local
+Brasil, 2014;Octavos de Final, partido 4;29 de junio de 2014;Arena Pernambuco / Recife;Costa Rica;6;Grecia;4;PT 0 a 0. ST 1 a 1. Suplementario 1 a 1. Penales (5 a 3);Local
+Brasil, 2014;Octavos de Final, partido 5;30 de junio de 2014;Nacional / Brasilia;Francia;2;Nigeria;0;PT 0 a 0.;Local
+Brasil, 2014;Octavos de Final, partido 6;30 de junio de 2014;Beira-Rio / Porto Alegre;Alemania;2;Argelia;1;PT 0 a 0. ST 0 a 0. Suplementario 2 a 1.;Local
+Brasil, 2014;Octavos de Final, partido 7;1 de julio de 2014;Arena / San Pablo;Argentina;1;Suiza;0;PT 0 a 0. ST 0 a 0. Suplementario 1 a 0.;Local
+Brasil, 2014;Octavos de Final, partido 8;1 de julio de 2014;Arena Fonte Nova / Salvador;BÇlgica;2;Estados Unidos;1;PT 0 a 0. ST 0 a 0. Suplementario 2 a 1.;Local
+Brasil, 2014;Cuartos de Final, partido 1;4 de julio de 2014;Maracan† / R°o de Janeiro;Francia;0;Alemania;1;PT 1 a 0.;Visita
+Brasil, 2014;Cuartos de Final, partido 2;4 de julio de 2014;Arena Fonte Nova / Fortaleza;Brasil;2;Colombia;1;PT 1 a 0.;Local
+Brasil, 2014;Cuartos de Final, partido 3;5 de julio de 2014;Nacional / Brasilia;Argentina;1;BÇlgica;0;PT 1 a 0.;Local
+Brasil, 2014;Cuartos de Final, partido 4;5 de julio de 2014;Arena Fonte Nova / Salvador;Pa°ses Bajos;4;Costa Rica;3;PT 0 a 0. ST 0 a 0. Suplementario 0 a 0. Penales (4 a 3);Local
+Brasil, 2014;Semifinal 1;8 de julio de 2014;Mineirao / Belo Horizonte;Brasil;1;Alemania;7;PT 5 a 0.;Visita
+Brasil, 2014;Semifinal 2;9 de julio de 2014;Arena / San Pablo;Pa°ses Bajos;2;Argentina;4;PT 0 a 0. ST 0 a 0. Suplementario 0 a 0. Penales (2 a 4);Visita
+Brasil, 2014;Tercer y Cuarto Puesto;12 de julio de 2014;Nacional / Brasilia;Brasil;0;Pa°ses Bajos;3;PT 0 a 2.;Visita
+Brasil, 2014;Final;13 de julio de 2014;Maracan† / R°o de Janeiro;Alemania;1;Argentina;0;PT 0 a 0. ST 0 a 0. Suplementario 1 a 0.;Local
+Rusia, 2018;Primera, Grupo A;14 de junio de 2018;Estado Ol°mpico Luzhniki /Mosc£;Rusia;5;Arabia Saudita;0;PT 2 a 0;Local
+Rusia, 2018;Primera, Grupo A;15 de junio de 2018;Estadio Central / Ekaterimburgo;Uruguay;1;Egipto;0;PT 0 a 0;Local
+Rusia, 2018;Primera, Grupo B;15 de junio de 2018;Estadio Krestovski / San Petersburgo;Marruecos;0;Ir†n;5;PT 0 a 0;Visita
+Rusia, 2018;Primera, Grupo B;15 de junio de 2018;Estadio Ol°mpico /Sochi;Portugal;3;Espa§a;3;PT 2 a 1;Empate
+Rusia, 2018;Primera, Grupo C;16 de junio de 2018;Kaz†n Arena / Kaz†n;Francia;2;Australia;1;PT 0 a 0;Local
+Rusia, 2018;Primera, Grupo D;16 de junio de 2018;Otkrytie Arena / Mosc£;Argentina;1;Islandia;1;PT 1 a 1;Empate
+Rusia, 2018;Primera, Grupo C;16 de junio de 2018;Mordovia Arena / Saransk;Per£;0;Dinamarca;1;PT 0 a 0;Visita
+Rusia, 2018;Primera, Grupo D;16 de junio de 2018;Estadio de Kaliningrado / Kaliningrado;Croacia;2;Nigeria;0;PT 1 a 0;Local
+Rusia, 2018;Primera, Grupo E;17 de junio de 2018;Cosmos Arena / Samara;Costa Rica;0;Serbia;1;PT 0 a 0;Visita
+Rusia, 2018;Primera, Grupo F;17 de junio de 2018;Estadio Ol°mpico Luzhniki / Mosc£;Alemania;0;MÇxico;1;PT 0 a 1;Visita
+Rusia, 2018;Primera, Grupo E;17 de junio de 2018;Rostov Arena / Rostov del Don;Brasil;1;Suiza;1;PT 1 a 0;Empate
+Rusia, 2018;Primera, Grupo F;17 de junio de 2018;Estadio de Nizhni Novgorod / Nizhni Novgorod;Suecia;1;Corea del Sur;0;PT 0 a 1;Local
+Rusia, 2018;Primera, Grupo G;18 de junio de 2018;Estadio Ol°mpico / Sochi;BÇlgica;3;Panam†;0;PT 0 a 0;Local
+Rusia, 2018;Primera, Grupo G;18 de junio de 2018;Volgogrado Arena / Volgogrado;T£nez;1;Inglaterra;2;PT 1 a 1;Visita
+Rusia, 2018;Primera, Grupo H;19 de junio de 2018;Mordovia Arena / Saransk;Colombia;1;Jap¢n;2;PT 1 a 1;Visita
+Rusia, 2018;Primera, Grupo H;19 de junio de 2018;Otkrytie Arena / Mosc£;Polonia;1;Senegal;2;PT 0 a 1;Visita
+Rusia, 2018;Primera, Grupo A;19 de junio de 2018;Estadio Krestovski / San Petersburgo;Rusia;3;Egipto;1;PT 0 a 0;Local
+Rusia, 2018;Primera, Grupo B;20 de junio de 2018;Estadio Ol°mpico Luzhniki / Mosc£;Portugal;1;Marruecos;0;PT 1 a 0;Local
+Rusia, 2018;Primera, Grupo A;20 de junio de 2018;Rostov Arena / Rostov del Don;Uruguay;1;Arabia Saudita;0;PT 1 a 0;Local
+Rusia, 2018;Primera, Grupo B;20 de junio de 2018;Kaz†n Arena / Kaz†n;Ir†n;0;Espa§a;1;PT 0 a 0;Visita
+Rusia, 2018;Primera, Grupo C;21 de junio de 2018;Cosmos Arena / Samara;Dinamarca;1;Australia;1;PT 1 a 1;Empate
+Rusia, 2018;Primera, Grupo C;21 de junio de 2018;Estadio Central / Ekaterimburgo;Francia;1;Per£;0;PT 1 a 0;Local
+Rusia, 2018;Primera, Grupo D;21 de junio de 2018;Estadio de Nizhni Novgorod / Nizhni Novgorod;Argentina;0;Croacia;3;PT 0 a 0;Visita
+Rusia, 2018;Primera, Grupo E;22 de junio de 2018;Estadio Krestovski / San Petersburgo;Brasil;2;Costa Rica;0;PT 0 a 0;Local
+Rusia, 2018;Primera, Grupo D;22 de junio de 2018;Volgogrado Arena / Volgogrado;Nigeria;2;Islandia;0;PT 0 a 0;Local
+Rusia, 2018;Primera, Grupo E;22 de junio de 2018;Estadio de Kaliningrado / Kaliningrado;Serbia;1;Suiza;2;PT 1 a 0;Visita
+Rusia, 2018;Primera, Grupo G;23 de junio de 2018;Otkrytie Arena / Mosc£;BÇlgica;5;T£nez;2;PT 2 a 1;Local
+Rusia, 2018;Primera, Grupo F;23 de junio de 2018;Rostov Arena / Rostov del Don;Corea del Sur;1;MÇxico;2;PT 0 a 1;Visita
+Rusia, 2018;Primera, Grupo F;23 de junio de 2018;Estadio Ol°mpico / Sochi;Alemania;2;Suecia;1;PT 0 a 1;Local
+Rusia, 2018;Primera, Grupo G;24 de junio de 2018;Estadio de Nizhni Novgorod / Nizhni Novgorod;Inglaterra;6;Panam†;1;PT 5 a 0;Local
+Rusia, 2018;Primera, Grupo H;24 de junio de 2018;Estadio Central / Ekaterimburgo;Jap¢n;2;Senegal;2;PT 1 a 1;Empate
+Rusia, 2018;Primera, Grupo H;24 de junio de 2018;Kaz†n Arena / Kaz†n;Polonia;0;Colombia;3;PT 0 a 1;Visita
+Rusia, 2018;Primera, Grupo A;25 de junio de 2018;Cosmos Arena / Samara;Uruguay;3;Rusia;0;PT 2 a 0;Local
+Rusia, 2018;Primera, Grupo A;25 de junio de 2018;Volgogrado Arena / Volgogrado;Arabia Saudita;2;Egipto;1;PT 1 a 1;Local
+Rusia, 2018;Primera, Grupo B;25 de junio de 2018;Mordovia Arena / Saransk;Ir†n;1;Portugal;1;PT 0 a 1;Empate
+Rusia, 2018;Primera, Grupo B;25 de junio de 2018;Estadio de Kaliningrado / Kaliningrado;Espa§a;2;Marruecos;2;PT 1 a 1;Empate
+Rusia, 2018;Primera, Grupo C;26 de junio de 2018;Estadio Ol°mpico Luzhniki / Mosc£;Dinamarca;0;Francia;0;PT 0 a 0;Empate
+Rusia, 2018;Primera, Grupo C;26 de junio de 2018;Estadio Ol°mpico / Sochi;Australia;0;Per£;2;PT 0 a 1;Visita
+Rusia, 2018;Primera, Grupo D;26 de junio de 2018;Estadio Krestovski / San Petersburgo;Nigeria;1;Argentina;2;PT 0 a 1;Visita
+Rusia, 2018;Primera, Grupo D;26 de junio de 2018;Rostov Arena / Rostov del Don;Islandia;1;Croacia;2;PT 0 a 0;Visita
+Rusia, 2018;Primera, Grupo F;27 de junio de 2018;Kaz†n Arena / Kaz†n;Corea del Sur;2;Alemania;0;PT 0 a 0;Local
+Rusia, 2018;Primera, Grupo F;27 de junio de 2018;Estadio Central / Ekaterimburgo;MÇxico;0;Suecia;3;PT 0 a 0;Visita
+Rusia, 2018;Primera, Grupo E;27 de junio de 2018;Otkrytie Arena / Mosc£;Serbia;0;Brasil;2;PT 0 a 1;Visita
+Rusia, 2018;Primera, Grupo E;27 de junio de 2018;Estadio de Nizhni Novgorod / Nizhni Novgorod;Suiza;2;Costa Rica;2;PT 1 a 0;Empate
+Rusia, 2018;Primera, Grupo H;28 de junio de 2018;Volgogrado Arena / Volgogrado;Jap¢n;0;Polonia;1;PT 0 a 0;Visita
+Rusia, 2018;Primera, Grupo H;28 de junio de 2018;Cosmos Arena / Samara;Senegal;0;Colombia;1;PT 0 a 0;Visita
+Rusia, 2018;Primera, Grupo G;28 de junio de 2018;Estadio de Kaliningrado / Kaliningrado;Inglaterra;0;BÇlgica;1;PT 0 a 0;Visita
+Rusia, 2018;Primera, Grupo G;28 de junio de 2018;Mordovia Arena / Saransk;Panam†;1;T£nez;2;PT 1 a 0;Visita
+Rusia, 2018;Octavos de Final, partido 1;30 de junio de 2018;Kaz†n Arena / Kaz†n;Uruguay;2;Portugal;1;PT 1 a 0;Local
+Rusia, 2018;Octavos de Final, partido 2;30 de junio de 2018;Estadio Ol°mpico / Sochi;Francia;4;Argentina;3;PT 1 a 2;Local
+Rusia, 2018;Octavos de Final, partido 3;1 de julio de 2018;Estadio Ol°mpico Luzhniki / Mosc£;Espa§a;4;Rusia;5;PT 1 a 1. ST 1 a 1. Suplementario 1 a 1. Penales (3 a 4);Visita
+Rusia, 2018;Octavos de Final, partido 4;1 de julio de 2018;Estadio de Nizhni Novgorod / Nizhni Novgorod;Croacia;4;Dinamarca;3;PT 1 a 1. ST 1 a 1. Suplementario 1 a 1. Penales (3 a 2);Local
+Rusia, 2018;Octavos de Final, partido 5;2 de julio de 2018;Cosmos Arena / Samara;Brasil;2;MÇxico;0;PT 0 a 0.;Local
+Rusia, 2018;Octavos de Final, partido 6;2 de julio de 2018;Rostov Arena / Rostov del Don;BÇlgica;3;Jap¢n;2;PT 0 a 0;Local
+Rusia, 2018;Octavos de Final, partido 7;3 de julio de 2018;Estadio Krestovski / San Petersburgo;Suecia;1;Suiza;0;PT 0 a 0;Local
+Rusia, 2018;Octavos de Final, partido 8;3 de julio de 2018;Otkrytie Arena / Mosc£;Colombia;4;Inglaterra;5;PT 0 a 0. ST 1 a 1. Suplementario 1 a 1. Penales (3 a 4);Visita
+Rusia, 2018;Cuartos de Final, partido 1;6 de julio de 2018;Estadio de Nizhni Novgorod / Nizhni Novgorod;Uruguay;0;Francia;2;PT 0 a 1;Visita
+Rusia, 2018;Cuartos de Final, partido 2;6 de julio de 2018;Kaz†n Arena / Kaz†n;Brasil;1;BÇlgica;2;PT 0 a 2;Visita
+Rusia, 2018;Cuartos de Final, partido 3;7 de julio de 2018;Cosmos Arena / Samara;Suecia;0;Inglaterra;2;PT 0 a 1;Visita
+Rusia, 2018;Cuartos de Final, partido 4;7 de julio de 2018;Estadio Ol°mpico / Sochi;Rusia;5;Croacia;6;PT 1 a 1. ST 1 a 1. Suplementario 2 a 2. Penales (3 a 4);Visita
+Rusia, 2018;Semifinal 1;10 de julio de 2018;Estadio Krestovski / San Petersburgo;Francia;1;BÇlgica;0;PT 0 a 0;Local
+Rusia, 2018;Semifinal 2;10 de julio de 2018;Estadio Ol°mpico Luzhniki / Mosc£;Croacia;2;Inglaterra;1;PT 0 a 1. ST 1 a 1. Suplementario 2 a 1.;Local
+Rusia, 2018;Tercer y Cuarto Puesto;14 de julio de 2018;Estadio Krestovski / San Petersburgo;BÇlgica;2;Inglaterra;0;PT 1 a 0;Local
+Rusia, 2018;Final;15 de julio de 2018;Estadio Ol°mpico Luzhniki / Mosc£;Francia;4;Croacia;2;PT 2 a 1;Local
+Qatar, 2022;Primera, Grupo A;20 de Noviembre de 2022;Estadio Al Bayt / Jor;Qatar;0;Ecuador;2;PT 0 a 2;Visita
+Qatar, 2022;Primera, Grupo A;21 de Noviembre de 2022;Estadio Al Thumama / Doha;Senegal;0;Pa°ses Bajos;2;PT 0 a 0;Visita
+Qatar, 2022;Primera, Grupo B;21 de Noviembre de 2022;Estadio Internacional Al Khalifa / Ray†n;Inglaterra;6;Ir†n;2;PT 3 a 0;Local
+Qatar, 2022;Primera, Grupo B;21 de Noviembre de 2022;Estadio Ahmed bin Ali / Ray†n;Estados Unidos;1;Gales;1;PT 1 a 0;Empate
+Qatar, 2022;Primera, Grupo C;22 de Noviembre de 2022;Estadio Al Daayen / Lusail;Argentina;1;Arabia Saudita;2;PT 1 a 0;Visita
+Qatar, 2022;Primera, Grupo D;22 de Noviembre de 2022;Estadio Education City / Doha;Dinamarca;0;T£nez;0;PT 0 a 0;Empate
+Qatar, 2022;Primera, Grupo C;22 de Noviembre de 2022;Estadio 974 / Doha;MÇxico;0;Polonia;0;PT 0 a 0;Local
+Qatar, 2022;Primera, Grupo D;22 de Noviembre de 2022;Estadio Al Janoub / Al Wakrah;Francia;4;Australia;1;PT 2 a 1;Local
+Qatar, 2022;Primera, Grupo F;23 de Noviembre de 2022;Estadio Al Bayt / Jor;Marruecos;0;Croacia;0;PT 0 a 0;Empate
+Qatar, 2022;Primera, Grupo E;23 de Noviembre de 2022;Estadio Internacional Al Khalifa / Ray†n;Alemania;1;Jap¢n;2;PT 1 a 0;Visita
+Qatar, 2022;Primera, Grupo E;23 de Noviembre de 2022;Estadio Al Thumama / Doha;Espa§a;7;Costa Rica;0;PT 3 a 0;Local
+Qatar, 2022;Primera, Grupo F;23 de Noviembre de 2022;Estadio Ahmed bin Ali / Ray†n;BÇlgica;1;Canad†;0;PT 1 a 0;Local
+Qatar, 2022;Primera, Grupo G;24 de Noviembre de 2022;Estadio Al Janoub / Al Wakrah;Suiza;1;Camer£n;0;PT 0 a 0;Local
+Qatar, 2022;Primera, Grupo H;24 de Noviembre de 2022;Estadio Education City / Doha;Uruguay;0;Corea del Sur;0;PT 0 a 0;Empate
+Qatar, 2022;Primera, Grupo H;24 de Noviembre de 2022;Estadio 974 / Doha;Portugal;3;Ghana;2;PT 0 a 0;Local
+Qatar, 2022;Primera, Grupo G;24 de Noviembre de 2022;Estadio Al Daayen / Lusail;Brasil;2;Serbia;0;PT 0 a 0;Local
+Qatar, 2022;Primera, Grupo B;25 de Noviembre de 2022;Estadio Ahmed bin Ali / Ray†n;Gales;0;Ir†n;2;PT 0 a 0;Visita
+Qatar, 2022;Primera, Grupo A;25 de Noviembre de 2022;Estadio Al Thumama / Doha;Qatar;1;Senegal;3;PT 0 a 1;Visita
+Qatar, 2022;Primera, Grupo A;25 de Noviembre de 2022;Estadio Internacional Al Khalifa / Ray†n;Pa°ses Bajos;1;Ecuador;1;PT 1 a 0;Empate
+Qatar, 2022;Primera, Grupo B;25 de Noviembre de 2022;Estadio Al Bayt / Jor;Inglaterra;0;Estados Unidos;0;PT 0 a 0;Empate
+Qatar, 2022;Primera, Grupo D;26 de Noviembre de 2022;Estadio Al Janoub / Al Wakrah;T£nez;0;Australia;1;PT 0 a 1;Visita
+Qatar, 2022;Primera, Grupo C;26 de Noviembre de 2022;Estadio Education City / Doha;Polonia;2;Arabia Saudita;0;PT 1 a 0;Local
+Qatar, 2022;Primera, Grupo D;26 de Noviembre de 2022;Estadio 974 / Doha;Francia;2;Dinamarca;1;PT 0 a 0;Local
+Qatar, 2022;Primera, Grupo C;26 de Noviembre de 2022;Estadio Al Daayen / Lusail;Argentina;2;MÇxico;2;PT 0 a 0;Empate
+Qatar, 2022;Primera, Grupo E;27 de Noviembre de 2022;Estadio Ahmed bin Ali / Ray†n;Jap¢n;0;Costa Rica;1;PT 0 a 0;Visita
+Qatar, 2022;Primera, Grupo F;27 de Noviembre de 2022;Estadio Al Thumama / Doha;BÇlgica;0;Marruecos;2;PT 0 a 0;Visita
+Qatar, 2022;Primera, Grupo F;27 de Noviembre de 2022;Estadio Internacional Al Khalifa / Ray†n;Croacia;4;Canad†;1;PT 2 a 1;Local
+Qatar, 2022;Primera, Grupo E;27 de Noviembre de 2022;Estadio Al Bayt / Jor;Espa§a;1;Alemania;1;PT 0 a 0;Empate
+Qatar, 2022;Primera, Grupo G;28 de Noviembre de 2022;Estadio Al Janoub / Al Wakrah;Camer£n;3;Serbia;3;PT 1 a 2;Empate
+Qatar, 2022;Primera, Grupo H;28 de Noviembre de 2022;Estadio Education City / Doha;Corea del Sur;2;Ghana;3;PT 0 a 2;Visita
+Qatar, 2022;Primera, Grupo G;28 de Noviembre de 2022;Estadio 974 / Doha;Brasil;1;Suiza;0;PT 0 a 0;Local
+Qatar, 2022;Primera, Grupo H;28 de Noviembre de 2022;Estadio Al Daayen / Lusail;Portugal;2;Uruguay;0;PT 0 a 0;Local
+Qatar, 2022;Primera, Grupo A;29 de Noviembre de 2022;Estadio Internacional Al Khalifa / Ray†n;Ecuador;1;Senegal;2;PT 0 a 1;Visita
+Qatar, 2022;Primera, Grupo A;29 de Noviembre de 2022;Estadio Al Bayt / Jor;Pa°ses Bajos;2;Qatar;0;PT 1 a 0;Local
+Qatar, 2022;Primera, Grupo B;29 de Noviembre de 2022;Estadio Ahmed bin Ali / Ray†n;Gales;0;Inglaterra;3;PT 0 a 0;Visita
+Qatar, 2022;Primera, Grupo B;29 de Noviembre de 2022;Estadio Al Thumama / Doha;Ir†n;0;Estados Unidos;1;PT 0 a 1;Visita
+Qatar, 2022;Primera, Grupo D;30 de Noviembre de 2022;Estadio Al Janoub / Al Wakrah;Australia;1;Dinamarca;0;PT 0 a 0;Local
+Qatar, 2022;Primera, Grupo D;30 de Noviembre de 2022;Estadio Education City / Doha;T£nez;1;Francia;0;PT 0 a 0;Local
+Qatar, 2022;Primera, Grupo C;30 de Noviembre de 2022;Estadio 974 / Doha;Polonia;0;Argentina;2;PT 0 a 0;Visita
+Qatar, 2022;Primera, Grupo C;30 de Noviembre de 2022;Estadio Al Daayen / Lusail;Arabia Saudita;1;MÇxico;2;PT 0 a 0;Visita
+Qatar, 2022;Primera, Grupo F;1 de Diciembre de 2022;Estadio Al Thumama / Doha;Canad†;1;Marruecos;2;PT 1 a 2;Visita
+Qatar, 2022;Primera, Grupo F;1 de Diciembre de 2022;Estadio Ahmed bin Ali / Ray†n;Croacia;0;BÇlgica;0;PT 0 a 0;Empate
+Qatar, 2022;Primera, Grupo E;1 de Diciembre de 2022;Estadio Al Bayt / Jor;Costa Rica;2;Alemania;4;PT 0 a 1;Visita
+Qatar, 2022;Primera, Grupo E;1 de Diciembre de 2022;Estadio Internacional Al Khalifa / Ray†n;Jap¢n;2;Espa§a;1;PT 0 a 1;Local
+Qatar, 2022;Primera, Grupo H;2 de Diciembre de 2022;Estadio Al Janoub / Al Wakrah;Ghana;0;Uruguay;2;PT 0 a 2;Visita
+Qatar, 2022;Primera, Grupo H;2 de Diciembre de 2022;Estadio Education City / Doha;Corea del Sur;2;Portugal;1;PT 1 a 1;Local
+Qatar, 2022;Primera, Grupo G;2 de Diciembre de 2022;Estadio 974 / Doha;Serbia;2;Suiza;3;PT 2 a 2;Visita
+Qatar, 2022;Primera, Grupo G;2 de Diciembre de 2022;Estadio Al Daayen / Lusail;Camer£n;1;Brasil;0;PT 0 a 0;Local
+Qatar, 2022;Octavos de Final, partido 1;3 de Diciembre de 2022;Estadio Internacional Al Khalifa / Ray†n;Pa°ses Bajos;3;Estados Unidos;1;PT 2 a 0;Local
+Qatar, 2022;Octavos de Final, partido 2;3 de Diciembre de 2022;Estadio Ahmed bin Ali / Ray†n;Argentina;2;Australia;1;PT 1 a 0;Local
+Qatar, 2022;Octavos de Final, partido 3;4 de Diciembre de 2022;Estadio Al Thumama / Doha;Francia;3;Polonia;1;PT 1 a 0;Local
+Qatar, 2022;Octavos de Final, partido 4;4 de Diciembre de 2022;Estadio Al Bayt / Jor;Inglaterra;3;Senegal;0;PT 2 a 0;Local
+Qatar, 2022;Octavos de Final, partido 5;5 de Diciembre de 2022;Estadio Al Janoub / Al Wakrah;Jap¢n;2;Croacia;4;PT 1 a 0. ST 1 a 1. Suplementario 1 a 1. Penales (1 a 3);Visita
+Qatar, 2022;Octavos de Final, partido 6;5 de Diciembre de 2022;Estadio 974 / Doha;Brasil;4;Corea del Sur;1;PT 4 a 0.;Local
+Qatar, 2022;Octavos de Final, partido 7;6 de Diciembre de 2022;Estadio Education City / Doha;Marruecos;0;Espa§a;0;PT 0 a 0. ST 0 a 0. Suplementario 0 a 0. Penales (3 a 1);Empate
+Qatar, 2022;Octavos de Final, partido 8;6 de Diciembre de 2022;Estadio Al Daayen / Lusail;Portugal;6;Suiza;1;PT 2 a 0.;Local
+Qatar, 2022;Cuartos de Final, partido 1;9 de Diciembre de 2022;Estadio Education City / Doha;Croacia;5;Brasil;3;PT 0 a 0. ST 0 a 0. Suplementario 1 a 1. Penales (4 a 2);Local
+Qatar, 2022;Cuartos de Final, partido 2;9 de Diciembre de 2022;Estadio Al Daayen / Lusail;Pa°ses Bajos;5;Argentina;6;PT 0 a 1. ST 2 a 2. Suplementario 2 a 2. Penales (3 a 4);Visita
+Qatar, 2022;Cuartos de Final, partido 3;10 de Diciembre de 2022;Estadio Al Thumama / Doha;Marruecos;1;Portugal;0;PT 1 a 0.;Local
+Qatar, 2022;Cuartos de Final, partido 4;10 de Diciembre de 2022;Estadio Al Bayt / Jor;Francia;2;Inglaterra;1;PT 1 a 0.;Local
+Qatar, 2022;Semifinal 1;13 de Diciembre de 2022;Estadio Al Daayen / Lusail;Argentina;3;Croacia;0;PT 2 a 0;Local
+Qatar, 2022;Semifinal 2;13 de Diciembre de 2022;Estadio Al Bayt / Jor;Francia;2;Marruecos;0;PT 1 a 0;Local
+Qatar, 2022;Tercer y Cuarto Puesto;17 de Diciembre de 2022;Estadio Internacional Al Khalifa / Ray†n;Croacia;2;Marruecos;1;PT 2 a 1;Local
+Qatar, 2022;Final;18 de Diciembre de 2022;Estadio Al Daayen / Lusail;Argentina;7;Francia;5;PT 2 a 0. ST 2 a 2. Suplementario 3 a 3. Penales (4 a 2);Local
